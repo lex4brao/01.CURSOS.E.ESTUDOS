@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\01 - NOTAS DE ESTUDO\02.JAVA.BASICO.-.LOIANE.GRONER\Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1780731238.index
+1865797976.index
+2525604767.index

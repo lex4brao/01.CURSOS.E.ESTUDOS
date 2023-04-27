@@ -1,4 +1,4 @@
-
+Eclipse/.metadata
 Eclipse/.metadata/.lock
 Eclipse/.metadata/.log
 Eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/25/00a1e3e287e4001d10b28276a5b3d2b0
@@ -114,3 +114,5 @@ Eclipse/Exercicios/src/module-info.java
 Eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/95/a050cd6b8ee4001d130f838f4eb6a745
 Eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/d5/c0a88cbb8ee4001d130f838f4eb6a745
 Eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/e1/f0f527c68ee4001d130f838f4eb6a745
+Eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/Aulas/.markers
+*.index

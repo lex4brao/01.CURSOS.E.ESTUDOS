@@ -108,3 +108,9 @@ Eclipse/Exercicios/.settings/org.eclipse.core.resources.prefs
 Eclipse/Exercicios/.settings/org.eclipse.jdt.core.prefs
 Eclipse/Exercicios/bin/module-info.class
 Eclipse/Exercicios/src/module-info.java
+*.tree
+*.launch
+*.png
+Eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/95/a050cd6b8ee4001d130f838f4eb6a745
+Eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/d5/c0a88cbb8ee4001d130f838f4eb6a745
+Eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/e1/f0f527c68ee4001d130f838f4eb6a745

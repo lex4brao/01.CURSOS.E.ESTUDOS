@@ -183,12 +183,12 @@ veja que para converter o valor utilizamos o prefixo "0b" para binário, "0" par
 String não é um tipo primitivo em java String é uma classe, nota-se que até na sua declaração o "S" é escrito em maiusculo, acredito eu que é para deixar clara que se trata de uma classe e não um tipo primitivo, porem para facilitar nossa vida em escrever textos vamos a alguns escape na linguagem Java
 
 ### Sequencia de Escape
-  - \t	tabulação horizontal
-  - \n	newline
-  - \r	carriage return
-  - \"	aspas
-  - \'	aspas simples
-  - \\	contrabarra
+  - \\t	tabulação horizontal
+  - \\n	newline
+  - \\r	carriage return
+  - \\\"	aspas
+  - \\\'	aspas simples
+  - \\\\	contrabarra
 
 ## Aula 12
 

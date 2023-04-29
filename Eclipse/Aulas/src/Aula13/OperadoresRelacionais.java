@@ -27,7 +27,7 @@ public class OperadoresRelacionais {
 		resultado = valor1>=valor2;
 		System.out.println("O resultado é = "+resultado);
 		
-		resultado = valor1=valor2;
+		resultado = valor1==valor2;
 		System.out.println("O resultado é = "+resultado);
 		
 	}

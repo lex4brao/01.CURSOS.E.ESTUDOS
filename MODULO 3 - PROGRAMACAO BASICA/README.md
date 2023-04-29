@@ -318,6 +318,111 @@ public class OperadoresAritimeticos {
   }
 }
 ```
+### Funções Matematicas
+Java tem uma classe chamata Math em sua biblioteca nativa, que existe diversas metodos(funções) que no ajuda na hora de nos auxiliam muito na hora de operações aritiméticas vamos a tabela:
+
+<table>
+  <tr>
+    <th>Metodo</th>
+    <th>Exemplo</th>
+    <th>Comentário</th>
+  </tr>
+  <tr>
+    <td>ceil</td>
+    <td>Math.ceil(x)</td>
+    <td>Arredonda um número real para cima. Por exemplo, ceil(3.2) é 4.</td>
+  </tr>
+  <tr>
+    <td>cos</td>
+    <td>Math.cos(X)</td>
+    <td>Calcula o cosseno de X (X deve estar representado em radianos).</td>
+  </tr>
+  <tr>
+    <td>exp</td>
+    <td>Math.exp(X)</td>
+    <td>Obtém o logaritmo natural e elevado à potência X.</td>
+  </tr>
+  <tr>
+    <td>abs</td>
+    <td>Math.abs(X)</td>
+    <td>Obtém o valor absoluto de X.</td>
+  </tr>
+  <tr>
+    <td>floor</td>
+    <td>Math.floor(X)</td>
+    <td>Arredonda um número real para baixo. Por exemplo, floor(3.2) é 3.</td>
+  </tr>
+  <tr>
+    <td>log</td>
+    <td>Math.log(X)</td>
+    <td>Obtém o logaritmo natural de X.</td>
+  </tr>
+  <tr>
+    <td>log10</td>
+    <td>Math.log10(X)</td>
+    <td>Obtém o logaritmo de base 10 de X.</td>
+  </tr>
+  <tr>
+    <td>pow</td>
+    <td>Math.pow(X,Y)</td>
+    <td>Calcula a potência de X elevado a Y.</td>
+  </tr>
+  <tr>
+    <td>sin</td>
+    <td>Math.sin(X)</td>
+    <td>Calcula o seno de X (X deve estar representado em radianos).</td>
+  </tr>
+  <tr>
+    <td>sqrt</td>
+    <td>Math.sqrt(X)</td>
+    <td>Calcula a raiz quadrada de X.</td>
+  </tr>
+  <tr>
+    <td>cbrt</td>
+    <td>Math.cbrt(X)</td>
+    <td>Calcula a raiz cúbica de X.</td>
+  </tr>
+  <tr>
+    <td>tan</td>
+    <td>Math.tan(X)</td>
+    <td>Calcula a tangente de X (X deve estar representado em radianos).</td>
+  </tr>
+  <tr>
+    <td>PI</td>
+    <td>Math.PI</td>
+    <td>Retorna o valor de π.</td>
+  </tr>
+  <tr>
+    <td>toDegrees</td>
+    <td>Math.toDegrees(X)</td>
+    <td>Converte a medida de X de radianos para graus.</td>
+  </tr>
+  <tr>
+    <td>toRadians</td>
+    <td>Math.toRadians(X)</td>
+    <td>Converte a medida de X de graus para radianos.</td>
+  </tr>
+  </table>
+
+### Formatação de Casas decimais
+No java temos a classe DecimalFormart onde podemos formatar as casas decimal de um numero real("double") veja o exemplo abaixo como proceguir:
+```
+package Aula13;
+
+import java.text.DecimalFormat; //inclua a classe em seu programa
+
+public class CasasDecimal {
+
+	public static void main(String[] args) {
+		double pi = 3.14159265;
+		DecimalFormat df = new DecimalFormat("0.00");
+		
+		System.out.println("O valor de PI é "+df.format(pi));
+	}
+
+}
+
+```
 
 ### Operadores Relacionais
 | Operador | Operação |

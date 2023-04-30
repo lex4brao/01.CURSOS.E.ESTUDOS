@@ -54,7 +54,6 @@ class Ex34 {
         break;
       default: System.out.println("Inocente");
     }
-    System.out.println(contador+"");
   }
 }
 

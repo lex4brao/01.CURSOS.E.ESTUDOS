@@ -7,7 +7,7 @@ public class CasasDecimal {
 		double pi = 3.14159265;
 		DecimalFormat df = new DecimalFormat("0.00");
 		
-		System.out.println("O valor de PI é"+df.format(pi));
+		System.out.println("O valor de PI é "+df.format(pi));
 	}
 
 }

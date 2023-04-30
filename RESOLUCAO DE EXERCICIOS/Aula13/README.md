@@ -134,6 +134,40 @@ o	Dicas:
   - "Já trabalhou com a vítima?"
 O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
 
+
+35.	Um posto está vendendo combustíveis com a seguinte tabela de descontos:
+  Álcool:
+    - até 20 litros, desconto de 3% por litro
+    - acima de 20 litros, desconto de 5% por litro 
+  Gasolina:
+    - até 20 litros, desconto de 4% por litro
+    - acima de 20 litros, desconto de 6% por litro 
+  
+Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G- gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90.
+
+35.	Uma fruteira está vendendo frutas com a seguinte tabela de preços:
+  Até 5 Kg
+    Morango R$ 2,50 Kg 
+    Maçã R$ 1,80 Kg
+  Acima de 5 Kg
+    Morango R$ 2,20 Kg
+    Maçã R$ 1,50 por Kg
+
+Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.
+ 
+36.	O Hipermercado Tabajara está com uma promoção de carnes que é imperdível. Confira:
+  Até 5 Kg 
+    File Duplo R$ 4,90 por Kg
+    Alcatra R$ 5,90 por Kg
+    Picanha R$ 6,90 por Kg
+
+  Acima de 5 Kg
+    File Duplo R$ 5,80 por Kg
+    Alcatra R$ 6,80 por Kg
+    Picanha R$ 7,80 por Kg
+    
+  Para atender a todos os clientes, cada cliente poderá levar apenas um dos tipos de carne da promoção, porém não há limites para a quantidade de carne por cliente. Se compra for feita no cartão Tabajara o cliente receberá ainda um desconto de 5% sobre o total a compra. Escreva um programa que peça o tipo e a quantidade de carne comprada pelo usuário e gere um cupom fiscal, contendo as informações da compra: tipo e quantidade de carne, preço total, tipo de pagamento, valor do desconto e valor a pagar.
+
 34.	Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:
   - A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média alcançada;
   - A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada;
@@ -147,35 +181,3 @@ O programa deve no final emitir uma classificação sobre a participação da pe
  
 37.	Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento.
 
-
-40.	Um posto está vendendo combustíveis com a seguinte tabela de descontos:
-  Álcool:
-    - até 20 litros, desconto de 3% por litro
-    - acima de 20 litros, desconto de 5% por litro 
-  Gasolina:
-    - até 20 litros, desconto de 4% por litro
-    - acima de 20 litros, desconto de 6% por litro 
-  
-Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G- gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90.
-
-41.	Uma fruteira está vendendo frutas com a seguinte tabela de preços:
-  Até 5 Kg
-    Morango R$ 2,50 Kg 
-    Maçã R$ 1,80 Kg
-  Acima de 5 Kg
-    Morango R$ 2,20 Kg
-    Maçã R$ 1,50 por Kg
-
-Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.
- 
-42.	O Hipermercado Tabajara está com uma promoção de carnes que é imperdível. Confira:
-  Até 5 Kg 
-    File Duplo R$ 4,90 por Kg
-    Alcatra R$ 5,90 por Kg
-    Picanha R$ 6,90 por Kg
-
-  Acima de 5 Kg
-    File Duplo R$ 5,80 por Kg
-    Alcatra R$ 6,80 por Kg
-    Picanha R$ 7,80 por Kg
-  Para atender a todos os clientes, cada cliente poderá levar apenas um dos tipos de carne da promoção, porém não há limites para a quantidade de carne por cliente. Se compra for feita no cartão Tabajara o cliente receberá ainda um desconto de 5% sobre o total a compra. Escreva um programa que peça o tipo e a quantidade de carne comprada pelo usuário e gere um cupom fiscal, contendo as informações da compra: tipo e quantidade de carne, preço total, tipo de pagamento, valor do desconto e valor a pagar.

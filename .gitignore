@@ -3,13 +3,11 @@ Eclipse/Aulas/.classpath
 Eclipse/Aulas/.project
 Eclipse/Aulas/.settings
 Eclipse/Aulas/bin
-Eclipse/Aulas/bin/module-info.class
 Eclipse/Aulas/src/module-info.java
 Eclipse/Exercicios/.classpath
 Eclipse/Exercicios/.project
 Eclipse/Exercicios/.settings
 Eclipse/Exercicios/bin
-Eclipse/Exercicios/bin/module-info.class
 Eclipse/Exercicios/src/module-info.java
 *.tree
 *.launch

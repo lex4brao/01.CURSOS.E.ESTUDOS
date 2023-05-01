@@ -164,3 +164,110 @@ if (sexo.equalsIgnoreCase("f")){
 }
 ```
 Veja acima o método compara se o valor que está na String sexo é "f" ingnorando se "f" é minusculo ou maiusculo
+
+### ## Resolva a bateria de exercicíos
+  ### [Lista de Exercicíos](https://github.com/lex4brao/02.CURSO.DE.JAVA.-.LOIANE.GRONER/tree/main/RESOLUCAO%20DE%20EXERCICIOS)
+## Aula 16
+
+### Loops WHILE e Do WHILE 
+
+### O comando while
+O comando while siguinifica enquando, o comando avalia uma expressão ou condição e enquando ela for verdadeira ele executa um bloco de comando veja o exemplo abaixo
+
+```
+class LoopWhile {
+  public static void main (String[] args) {
+    
+    int count=0; 
+    System.out.println("Contador até 10");
+   
+    while(count<=10){
+      System.out.println(""+count);
+      count++;
+    }
+  }
+}
+```
+
+### o Comando do-while
+O comando do-while que siguinifica faça enquanto, é similar o comando while porem ele faz a verificação da expressão ou condição após executar o bloco de comando veja o exemplo abaixo
+```
+class LoopWhile {
+  public static void main (String[] args) {
+    
+    int count=0; 
+    do {
+      System.out.println(" - "+count);
+      count++;
+    } while(count<=25);
+  }
+}
+```
+
+## Aula 17
+
+### O Loop For
+O comando for é o mais utilizado dentro da programação ele também executa um bloco de comandos enquando uma expressão ou condição for verdadeira 
+O comando for é mais utilizado por oferecer a possibilidade de inicializar uma variável, colocar uma condição e colocar uma atualização como o incremento, tudo em uma linha de comando 
+
+```
+class LoopFor {
+  public static void main (String[] args) {
+    System.out.println("Contador até 10");
+
+    for(int count=0; count<=10; count++){
+      System.out.println(" "+count);
+    }
+  }
+}
+```
+Vale observar, que quando uma variável é declarada dentro do comando for, ela só poderá ser utilizada dentro do bloco de comando for 
+
+### For com mais de uma variável
+Veja que dentro dos parâmentros do comando for separamos por ; (ponto é virgula) como se fosse uma linha de comando temos a possibilidade de separar as variáveis por virgula
+
+```
+class LoopFor {
+  public static void main (String[] args) {
+  
+    for(int i=0, j=10; i<=j; i++, j--){
+      System.out.println("i="+i+" j="+j);
+    }
+
+  }
+}
+```
+### For com partes ausentes
+o comando for pode ser utilizado com partes ausentes como iniciar a variavel fora do comando for veja o exemplo:
+
+```
+class LoopFor {
+  public static void main (String[] args) {
+  
+   int i=0;
+    for( ; i<=100; ){
+      System.out.println(""+i);
+      i+=5;
+    }
+
+  }
+}
+```
+### For de corpo vazio
+O for de corpo vazio é muito utilizado para somatórias veja o exemplo abaixo
+```
+package Aula16;
+
+class LoopFor {
+  public static void main (String[] args) {
+
+    int soma=0;
+    for(int k=0; k<=5; soma+=(k++));
+    System.out.println("A soma é "+soma);
+
+  }
+}
+```
+
+### ## Resolva a bateria de exercicíos
+  ### [Lista de Exercicíos](https://github.com/lex4brao/02.CURSO.DE.JAVA.-.LOIANE.GRONER/tree/main/RESOLUCAO%20DE%20EXERCICIOS)

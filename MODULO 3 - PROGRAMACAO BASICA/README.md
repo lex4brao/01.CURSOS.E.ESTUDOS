@@ -608,3 +608,6 @@ A Tabela abaixo é uma ordem de precedencia da linguagem java, a linguagem execu
     <td>Atribuição</td>
   </tr>
   </table>
+
+  ## Resolva a bateria de exercicíos
+  ### [Lista de Exercicíos](https://github.com/lex4brao/02.CURSO.DE.JAVA.-.LOIANE.GRONER/tree/main/RESOLUCAO%20DE%20EXERCICIOS)

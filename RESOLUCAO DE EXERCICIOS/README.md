@@ -332,7 +332,8 @@ Faça um programa que determine o salário atual desse funcionário. Após concl
 
 Exemplo de saída do programa:
 
-|Valor da Dívida | Valor dos Juros | Quantidade de Parcelas | Valor da Parcela| 
+|Valor da Dívida | Valor dos Juros | Quantidade de Parcelas | Valor da Parcela|
+|----|-----|----|-----| 
 | R$ 1.000,00 | 0   | 1x | R$ 1.000,00 | 
 | R$ 1.100,00 | 100 | 3x | R$ 366,00  |
 | R$ 1.150,00 | 150 | 6x | R$ 191,67 |

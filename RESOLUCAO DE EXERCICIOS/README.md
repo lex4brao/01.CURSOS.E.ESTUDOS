@@ -2,7 +2,7 @@
 
 ## Lista de Exercícios Aula 13
 
-1. 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
 2. Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 
@@ -132,6 +132,7 @@ o	Dicas:
   - "Mora perto da vítima?"
   - "Devia para a vítima?"
   - "Já trabalhou com a vítima?"
+
 O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
 
 
@@ -146,31 +147,32 @@ O programa deve no final emitir uma classificação sobre a participação da pe
 Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G- gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90.
 
 36.	Uma fruteira está vendendo frutas com a seguinte tabela de preços:
-  Até 5 Kg
-    Morango R$ 2,50 Kg 
-    Maçã R$ 1,80 Kg
-  Acima de 5 Kg
-    Morango R$ 2,20 Kg
-    Maçã R$ 1,50 por Kg
-
+  - Até 5 Kg
+    - Morango R$ 2,50 Kg 
+    - Maçã R$ 1,80 Kg
+  - Acima de 5 Kg
+    - Morango R$ 2,20 Kg
+    - Maçã R$ 1,50 por Kg
+    
 Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.
  
 37.	O Hipermercado Tabajara está com uma promoção de carnes que é imperdível. Confira:
-  Até 5 Kg 
-    File Duplo R$ 4,90 por Kg
-    Alcatra R$ 5,90 por Kg
-    Picanha R$ 6,90 por Kg
+  - Até 5 Kg 
+    - File Duplo R$ 4,90 por Kg
+    - Alcatra R$ 5,90 por Kg
+    - Picanha R$ 6,90 por Kg
 
-  Acima de 5 Kg
-    File Duplo R$ 5,80 por Kg
-    Alcatra R$ 6,80 por Kg
-    Picanha R$ 7,80 por Kg
+  - Acima de 5 Kg
+    - File Duplo R$ 5,80 por Kg
+    - Alcatra R$ 6,80 por Kg
+    - Picanha R$ 7,80 por Kg
 
-  Para atender a todos os clientes, cada cliente poderá levar apenas um dos tipos de carne da promoção, porém não há limites para a quantidade de carne por cliente. Se compra for feita no cartão Tabajara o cliente receberá ainda um desconto de 5% sobre o total a compra. Escreva um programa que peça o tipo e a quantidade de carne comprada pelo usuário e gere um cupom fiscal, contendo as informações da compra: tipo e quantidade de carne, preço total, tipo de pagamento, valor do desconto e valor a pagar.
+Para atender a todos os clientes, cada cliente poderá levar apenas um dos tipos de carne da promoção, porém não há limites para a quantidade de carne por cliente. Se compra for feita no cartão Tabajara o cliente receberá ainda um desconto de 5% sobre o total a compra. Escreva um programa que peça o tipo e a quantidade de carne comprada pelo usuário e gere um cupom fiscal, contendo as informações da compra: tipo e quantidade de carne, preço total, tipo de pagamento, valor do desconto e valor a pagar.
 
 38.	Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas notas de cada valor serão fornecidas. As notas disponíveis serão as de 2, 5, 10, 20, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de notas existentes na máquina.
-  Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 100, uma nota de 50, uma nota de 5 e uma nota de 2;
-  Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 2.
+  - Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 100, uma nota de 50, uma nota de 5 e uma nota de 2;
+  
+  - Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 2.
 
 ## Lista de Exercícios Aula 16 e 17
 
@@ -256,11 +258,11 @@ implantar a metodologia da tabelinha, que já é um sucesso na sua loja de 1,99.
 
 ``` 
 Preço do pão: R$ 0.18 
-o Panificadora Pão de Ontem - Tabela de preços
-o 1 - R$ 0.18 
-o 2 - R$ 0.36 
-o ... 
-o 50 - R$ 9.00
+ Panificadora Pão de Ontem - Tabela de preços
+ 1 - R$ 0.18 
+ 2 - R$ 0.36 
+ ... 
+ 50 - R$ 9.00
 ```
 69.	O Sr. Manoel Joaquim expandiu seus negócios para além dos negócios de 1,99 e agora possui uma loja de conveniências. Faça um programa que implemente uma caixa registradora rudimentar. O programa deverá receber um número desconhecido de valores referentes aos preços das mercadorias. Um valor zero deve ser informado pelo operador para indicar o final da compra. O programa deve então mostrar o total da compra e perguntar o valor em dinheiro que o cliente forneceu, para então calcular e mostrar o valor do troco. Após esta operação, o programa deverá voltar ao ponto inicial, para registrar a próxima compra. A saída deve ser conforme o exemplo abaixo:
 
@@ -277,8 +279,8 @@ Lojas Tabajara
 
 70.	Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120. A saída deve ser conforme o exemplo abaixo:
 ```
-o Fatorial de: 5 
-o 5! = 5 . 4 . 3 . 2 . 1 = 120
+Fatorial de: 5 
+5! = 5 . 4 . 3 . 2 . 1 = 120
 
 ```
 
@@ -327,7 +329,9 @@ Faça um programa que determine o salário atual desse funcionário. Após concl
       - 6 15% 
       - 9 20% 
       - 12 25%
+
 Exemplo de saída do programa:
+
 |Valor da Dívida | Valor dos Juros | Quantidade de Parcelas | Valor da Parcela| 
 | R$ 1.000,00 | 0   | 1x | R$ 1.000,00 | 
 | R$ 1.100,00 | 100 | 3x | R$ 366,00  |
@@ -343,6 +347,7 @@ Exemplo de saída do programa:
   - Hambúrguer	103	R$ 1,20
   - Cheeseburguer	104	R$ 1,30
   - Refrigerante 105 R$ 1,00
+
 Faça um programa que leia o código dos itens pedidos e as quantidades desejadas. Calcule e mostre o valor a ser pago por item (preço * quantidade) e o total geral do pedido. Considere que o cliente deve informar quando o pedido deve ser encerrado.
 
 83.	Em uma eleição presidencial existem quatro candidatos. Os votos são informados por meio de código. Os códigos utilizados são:
@@ -360,7 +365,8 @@ Faça um programa que calcule e mostre:
 84.	Desenvolver um programa para verificar a nota do aluno em uma prova com 10 questões, o programa deve perguntar ao aluno a resposta de cada questão e ao final comparar com o gabarito da prova e assim calcular o total de acertos e a nota (atribuir 1 ponto por resposta certa). Após cada aluno utilizar o sistema deve ser feita uma pergunta se outro aluno vai utilizar o sistema. Após todos os alunos terem respondido informar: Maior e Menor Acerto;
   a.	Total de Alunos que utilizaram o sistema;
   b.	A Média das Notas da Turma.
-Gabarito da Prova: 
+Gabarito da Prova:
+``` 
     01 - A 
     02 - B 
     03 - C 
@@ -371,6 +377,8 @@ Gabarito da Prova:
     08 - C 
     09 - B 
     10 - A
+```
+
 Após concluir isto você poderia incrementar o programa permitindo que o professor digite o gabarito da prova antes dos alunos usarem o programa 
 
 85.	Em uma competição de salto em distância cada atleta tem direito a cinco saltos. No final da série de saltos de cada atleta, o melhor e o pior resultados são eliminados. O seu resultado fica sendo a média dos três valores restantes. Você deve fazer um programa que receba o nome e as cinco distâncias alcançadas pelo atleta em seus saltos e depois informe a média dos saltos conforme a descrição acima informada (retirar o melhor e o pior salto e depois calcular a média). Faça uso de uma lista para armazenar os saltos. Os saltos são informados na ordem da execução, portanto não são ordenados. O programa deve ser encerrado quando não for informado o nome do atleta. A saída do programa deve ser conforme o exemplo abaixo:
@@ -413,14 +421,19 @@ o	Exemplo:
 ```
 88.	Faça um programa que mostre os n termos da Série a seguir:
   - S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m
+
 Imprima no final a soma da série.
 
-89.	Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, Faça um programa que calcule o valor de H com N termos.
+89.	Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, 
+
+Faça um programa que calcule o valor de H com N termos.
 
 90.	Faça um programa que mostre os n termos da Série a seguir:
   - S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m.
+
 Imprima no final a soma da série.
 
 91.	Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, Faça um programa que calcule o valor de H com N termos.
   - Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, 
-  Faça um programa que calcule o valor de H com N termos.
+
+Faça um programa que calcule o valor de H com N termos.

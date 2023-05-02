@@ -28,7 +28,7 @@ class Ex65 {
         menor=temp;
       } 
       i++;
-      System.out.println("Deseja continuar [S]im ou [N]ão");
+      System.out.print("Deseja continuar [S]im ou [N]ão");
       resp = scan.next();
       while (!resp.equalsIgnoreCase("S") && !resp.equalsIgnoreCase("N")) {
         System.out.print("Resposta inválida digite S pra sim e N para não: ");

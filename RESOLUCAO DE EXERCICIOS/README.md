@@ -289,59 +289,12 @@ Vou montar a tabuada de 5 começando em 4 e terminando em 7:
 ```
 Obs: Você deve verificar se o usuário não digitou o final menor que o inicial.
 
+69.	Um funcionário de uma empresa recebe aumento salarial anualmente: Sabe-se que:
+  - Esse funcionário foi contratado em 1995, com salário inicial de R$ 1.000,00;
+  - Em 1996 recebeu aumento de 1,5% sobre seu salário inicial;
+  -	A partir de 1997 (inclusive), os aumentos salariais sempre correspondem ao dobro do percentual do ano anterior. 
 
-
-
-56.	Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
-
-57.	Altere o programa anterior para que ele aceite apenas números entre 0 e 1000.
-
-58.	Altere o programa de cálculo do fatorial, permitindo ao usuário calcular o fatorial várias vezes e limitando o fatorial a números inteiros positivos e menores que 16.
-
-60.	Altere o programa de cálculo dos números primos, informando, caso o número não seja primo, por quais número ele é divisível.
-
-61.	Faça um programa que mostre todos os primos entre 1 e N sendo N um número inteiro fornecido pelo usuário. O programa deverá mostrar também o número de divisões que ele executou para encontrar os números primos. Serão avaliados o funcionamento, o estilo e o número de testes (divisões) executados.
-
-64.	Numa eleição existem três candidatos. Faça um programa que peça o número total de eleitores. Peça para cada eleitor votar e ao final mostrar o número de votos de cada candidato.
-  
-75.	Uma academia deseja fazer um senso entre seus clientes para descobrir o mais alto, o mais baixo, a mais gordo e o mais magro, para isto você deve fazer um programa que pergunte a cada um dos clientes da academia seu código, sua altura e seu peso. O final da digitação de dados deve ser dada quando o usuário digitar 0 (zero) no campo código. Ao encerrar o programa também deve ser informados os códigos e valores do clente mais alto, do mais baixo, do mais gordo e do mais magro, além da média das alturas e dos pesos dos clientes
-
-76.	Um funcionário de uma empresa recebe aumento salarial anualmente: Sabe-se que:
-  . Esse funcionário foi contratado em 1995, com salário inicial de R$ 1.000,00;
-    a.	Em 1996 recebeu aumento de 1,5% sobre seu salário inicial;
-    b.	A partir de 1997 (inclusive), os aumentos salariais sempre correspondem ao dobro do percentual do ano anterior. 
-    
-Faça um programa que determine o salário atual desse funcionário. Após concluir isto, altere o programa permitindo que o usuário digite o salário inicial do funcionário.
-
-78.	Faça um programa que leia dez conjuntos de dois valores, o primeiro representando o número do aluno e o segundo representando a sua altura em centímetros. Encontre o aluno mais alto e o mais baixo. Mostre o número do aluno mais alto e o número do aluno mais baixo, junto com suas alturas.
-
-79.	Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de trânsito. Foram obtidos os seguintes dados:
-  .  Código da cidade;
-    a.	Número de veículos de passeio (em 1999);
-    b.	Número	de	acidentes	de	trânsito	com	vítimas	(em 1999). Deseja-se saber:
-    c.	Qual o maior e menor índice de acidentes de transito e a que cidade pertence;
-    d.	Qual a média de veículos nas cinco cidades juntas;
-    e.	Qual a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
-
-80.	Faça um programa que receba o valor de uma dívida e mostre uma tabela com os seguintes dados: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela.
-    - Os juros e a quantidade de parcelas seguem a tabela abaixo:
-      - 1 0% 
-      - 3 10% 
-      - 6 15% 
-      - 9 20% 
-      - 12 25%
-
-Exemplo de saída do programa:
-
-|Valor da Dívida | Valor dos Juros | Quantidade de Parcelas | Valor da Parcela|
-|----|-----|----|-----| 
-| R$ 1.000,00 | 0   | 1x | R$ 1.000,00 | 
-| R$ 1.100,00 | 100 | 3x | R$ 366,00  |
-| R$ 1.150,00 | 150 | 6x | R$ 191,67 |
-
-81.	Faça um programa que leia uma quantidade indeterminada de números positivos e conte quantos deles estão nos seguintes intervalos: [0-25], [26-50], [51-75] e [76-100]. A entrada de dados deverá terminar quando for lido um número negativo.
-
-82.	O cardápio de uma lanchonete é o seguinte:
+70.	O cardápio de uma lanchonete é o seguinte:
   - Especificação	  Código	Preço
   - Cachorro Quente	  100	R$ 1,20
   - Bauru Simples	101	R$ 1,30
@@ -352,90 +305,16 @@ Exemplo de saída do programa:
 
 Faça um programa que leia o código dos itens pedidos e as quantidades desejadas. Calcule e mostre o valor a ser pago por item (preço * quantidade) e o total geral do pedido. Considere que o cliente deve informar quando o pedido deve ser encerrado.
 
-83.	Em uma eleição presidencial existem quatro candidatos. Os votos são informados por meio de código. Os códigos utilizados são:
-  - 1, 2, 3, 4 - Votos para os respectivos candidatos (você deve montar a tabela ex: 1 - Jose/ 2- João/etc) 
-  - 5 - Voto Nulo 
-  - 6 - Voto em Branco
-
-Faça um programa que calcule e mostre:
-  - O total de votos para cada candidato;
-  - O total de votos nulos;
-  - O total de votos em branco;
-  - A percentagem de votos nulos sobre o total de votos;
-  - A percentagem de votos em branco sobre o total de votos. Para finalizar o conjunto de votos tem-se o valor zero.
-
-84.	Desenvolver um programa para verificar a nota do aluno em uma prova com 10 questões, o programa deve perguntar ao aluno a resposta de cada questão e ao final comparar com o gabarito da prova e assim calcular o total de acertos e a nota (atribuir 1 ponto por resposta certa). Após cada aluno utilizar o sistema deve ser feita uma pergunta se outro aluno vai utilizar o sistema. Após todos os alunos terem respondido informar: Maior e Menor Acerto;
-  a.	Total de Alunos que utilizaram o sistema;
-  b.	A Média das Notas da Turma.
-Gabarito da Prova:
-``` 
-    01 - A 
-    02 - B 
-    03 - C 
-    04 - D 
-    05 - E 
-    06 - E 
-    07 - D 
-    08 - C 
-    09 - B 
-    10 - A
-```
-
-Após concluir isto você poderia incrementar o programa permitindo que o professor digite o gabarito da prova antes dos alunos usarem o programa 
-
-85.	Em uma competição de salto em distância cada atleta tem direito a cinco saltos. No final da série de saltos de cada atleta, o melhor e o pior resultados são eliminados. O seu resultado fica sendo a média dos três valores restantes. Você deve fazer um programa que receba o nome e as cinco distâncias alcançadas pelo atleta em seus saltos e depois informe a média dos saltos conforme a descrição acima informada (retirar o melhor e o pior salto e depois calcular a média). Faça uso de uma lista para armazenar os saltos. Os saltos são informados na ordem da execução, portanto não são ordenados. O programa deve ser encerrado quando não for informado o nome do atleta. A saída do programa deve ser conforme o exemplo abaixo:
-```
-Atleta: Rodrigo Curvêllo 
-Primeiro Salto: 6.5 m 
-Segundo Salto: 6.1 m 
-Terceiro Salto: 6.2 m 
-Quarto Salto: 5.4 m 
-Quinto Salto: 5.3 m 
-Melhor salto: 6.5 m 
-Pior salto: 5.3 m 
-Média dos demais saltos: 5.9 m 
-Resultado final: 
-Rodrigo Curvêllo: 5.9 m
-```
-
-86.	Em uma competição de ginástica, cada atleta recebe votos de sete jurados. A melhor e a pior nota são eliminadas. A sua nota fica sendo a média dos votos restantes. Você deve fazer um programa que receba o nome do ginasta e as notas dos sete jurados alcançadas pelo atleta em sua apresentação e depois informe a sua média, conforme a descrição acima informada (retirar o melhor e o pior salto e depois calcular a média com as notas restantes). As notas não são informados ordenadas. Um exemplo de saída do programa deve ser conforme o exemplo abaixo:
-```
-Atleta: Aparecido Parente 
-Nota: 9.9 
-Nota: 7.5 
-Nota: 9.5 
-Nota: 8.5 
-Nota: 9.0 
-Nota: 8.5 
-Nota: 9.7
-
-Resultado final: 
-Atleta: Aparecido Parente 
-Melhor nota: 9.9 
-Pior nota: 7.5 
-Média: 9,04
-```
-87.	Faça um programa que peça um numero inteiro positivo e em seguida mostre este numero invertido.
-o	Exemplo:
-```
-12376489 
-=> 9846732
-```
-88.	Faça um programa que mostre os n termos da Série a seguir:
+71.	Faça um programa que mostre os n termos da Série a seguir:
   - S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m
+  
+72.	Faça um programa que mostre os n termos da Série a seguir:
+  - S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m
+  - Imprima no final a soma da série.
 
-Imprima no final a soma da série.
+73.	Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, Faça um programa que calcule o valor de H com N termos.
 
-89.	Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, 
+74.	Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, Faça um programa que calcule o valor de H com N termos.
+  - Imprima no final a soma da série.
 
-Faça um programa que calcule o valor de H com N termos.
-
-90.	Faça um programa que mostre os n termos da Série a seguir:
-  - S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m.
-
-Imprima no final a soma da série.
-
-91.	Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, Faça um programa que calcule o valor de H com N termos.
-  - Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, 
-
-Faça um programa que calcule o valor de H com N termos.
+  

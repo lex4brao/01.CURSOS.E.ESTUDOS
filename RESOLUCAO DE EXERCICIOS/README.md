@@ -240,6 +240,56 @@ Lojas Quase Dois - Tabela de preços
 ... 
 50 - R$ 99.50
 ```
+62.	O Sr. Manoel Joaquim acaba de adquirir uma panificadora e pretende  implantar a metodologia da tabelinha, que já é um sucesso na sua loja de 1,99. Você foi contratado para desenvolver o programa que monta a tabela de preços de pães, de 1 até 50 pães, a partir do preço do pão informado pelo usuário, conforme o exemplo abaixo:
+
+``` 
+Preço do pão: R$ 0.18 
+ Panificadora Pão de Ontem - Tabela de preços
+ 1 - R$ 0.18 
+ 2 - R$ 0.36 
+ ... 
+ 50 - R$ 9.00
+```
+
+63.	O Sr. Manoel Joaquim expandiu seus negócios para além dos negócios de 1,99 e agora possui uma loja de conveniências. Faça um programa que implemente uma caixa registradora rudimentar. O programa deverá receber um número desconhecido de valores referentes aos preços das mercadorias. Um valor zero deve ser informado pelo operador para indicar o final da compra. O programa deve então mostrar o total da compra e perguntar o valor em dinheiro que o cliente forneceu, para então calcular e mostrar o valor do troco. Após esta operação, o programa deverá voltar ao ponto inicial, para registrar a próxima compra. A saída deve ser conforme o exemplo abaixo:
+
+```
+Lojas Tabajara 
+  Produto 1: R$ 2.20 
+  Produto 2: R$ 5.80 
+  Produto 3: R$ 0 
+  Total: R$ 9.00 
+  Dinheiro: R$ 20.00 
+  Troco: R$ 11.00 
+  ...
+```
+
+64.	Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120. A saída deve ser conforme o exemplo abaixo:
+```
+Fatorial de: 5 
+5! = 5 . 4 . 3 . 2 . 1 = 120
+
+```
+65.	O Departamento Estadual de Meteorologia lhe contratou para desenvolver um programa que leia as um conjunto indeterminado de temperaturas, e informe ao final a menor e a maior temperaturas informadas, bem como a média das temperaturas.
+
+66.	Os números primos possuem várias aplicações dentro da Computação, por exemplo na Criptografia. Um número primo é aquele que é divisível apenas por um e por ele mesmo. Faça um programa que peça um número inteiro e determine se ele é ou não um número primo.
+
+67.	Encontrar números primos é uma tarefa difícil. Faça um programa que gera uma lista dos números primos existentes entre 1 e um número inteiro informado pelo usuário.
+
+68.	Desenvolva um programa que faça a tabuada de um número qualquer inteiro que será digitado pelo usuário, mas a tabuada não deve necessariamente iniciar em 1 e terminar em 10, o valor inicial e final devem ser informados também pelo usuário, conforme exemplo abaixo:
+```
+Montar a tabuada de: 5 
+Começar por: 4 
+Terminar em: 7 
+Vou montar a tabuada de 5 começando em 4 e terminando em 7: 
+5 X 4 = 20 
+5 X 5 = 25 
+5 X 6 = 30 
+5 X 7 = 35
+```
+Obs: Você deve verificar se o usuário não digitou o final menor que o inicial.
+
+
 
 
 56.	Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
@@ -253,58 +303,7 @@ Lojas Quase Dois - Tabela de preços
 61.	Faça um programa que mostre todos os primos entre 1 e N sendo N um número inteiro fornecido pelo usuário. O programa deverá mostrar também o número de divisões que ele executou para encontrar os números primos. Serão avaliados o funcionamento, o estilo e o número de testes (divisões) executados.
 
 64.	Numa eleição existem três candidatos. Faça um programa que peça o número total de eleitores. Peça para cada eleitor votar e ao final mostrar o número de votos de cada candidato.
- 
-
-68.	O Sr. Manoel Joaquim acaba de adquirir uma panificadora e pretende
-implantar a metodologia da tabelinha, que já é um sucesso na sua loja de 1,99. Você foi contratado para desenvolver o programa que monta a tabela de preços de pães, de 1 até 50 pães, a partir do preço do pão informado pelo usuário, conforme o exemplo abaixo:
-
-``` 
-Preço do pão: R$ 0.18 
- Panificadora Pão de Ontem - Tabela de preços
- 1 - R$ 0.18 
- 2 - R$ 0.36 
- ... 
- 50 - R$ 9.00
-```
-69.	O Sr. Manoel Joaquim expandiu seus negócios para além dos negócios de 1,99 e agora possui uma loja de conveniências. Faça um programa que implemente uma caixa registradora rudimentar. O programa deverá receber um número desconhecido de valores referentes aos preços das mercadorias. Um valor zero deve ser informado pelo operador para indicar o final da compra. O programa deve então mostrar o total da compra e perguntar o valor em dinheiro que o cliente forneceu, para então calcular e mostrar o valor do troco. Após esta operação, o programa deverá voltar ao ponto inicial, para registrar a próxima compra. A saída deve ser conforme o exemplo abaixo:
-
-```
-Lojas Tabajara 
-  Produto 1: R$ 2.20 
-  Produto 2: R$ 5.80 
-  Produto 3: R$ 0 
-  Total: R$ 9.00 
-  Dinheiro: R$ 20.00 
-  Troco: R$ 11.00 
-  ...
-```
-
-70.	Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120. A saída deve ser conforme o exemplo abaixo:
-```
-Fatorial de: 5 
-5! = 5 . 4 . 3 . 2 . 1 = 120
-
-```
-
-71.	O Departamento Estadual de Meteorologia lhe contratou para desenvolver um programa que leia as um conjunto indeterminado de temperaturas, e informe ao final a menor e a maior temperaturas informadas, bem como a média das temperaturas.
-
-72.	Os números primos possuem várias aplicações dentro da Computação, por exemplo na Criptografia. Um número primo é aquele que é divisível apenas por um e por ele mesmo. Faça um programa que peça um número inteiro e determine se ele é ou não um número primo.
-
-73.	Encontrar números primos é uma tarefa difícil. Faça um programa que gera uma lista dos números primos existentes entre 1 e um número inteiro informado pelo usuário.
-
-74.	Desenvolva um programa que faça a tabuada de um número qualquer inteiro que será digitado pelo usuário, mas a tabuada não deve necessariamente iniciar em 1 e terminar em 10, o valor inicial e final devem ser informados também pelo usuário, conforme exemplo abaixo:
-```
-Montar a tabuada de: 5 
-Começar por: 4 
-Terminar em: 7 
-Vou montar a tabuada de 5 começando em 4 e terminando em 7: 
-5 X 4 = 20 
-5 X 5 = 25 
-5 X 6 = 30 
-5 X 7 = 35
-```
-Obs: Você deve verificar se o usuário não digitou o final menor que o inicial.
-
+  
 75.	Uma academia deseja fazer um senso entre seus clientes para descobrir o mais alto, o mais baixo, a mais gordo e o mais magro, para isto você deve fazer um programa que pergunte a cada um dos clientes da academia seu código, sua altura e seu peso. O final da digitação de dados deve ser dada quando o usuário digitar 0 (zero) no campo código. Ao encerrar o programa também deve ser informados os códigos e valores do clente mais alto, do mais baixo, do mais gordo e do mais magro, além da média das alturas e dos pesos dos clientes
 
 76.	Um funcionário de uma empresa recebe aumento salarial anualmente: Sabe-se que:

@@ -22,8 +22,8 @@ class Ex59 {
         soma+= alunos;
       } 
     } 
-    System.out.print("Cadastro concluido você cadastrou "+soma+" alunos");
-     System.out.print("Em "+qtd+" turmas");
+    System.out.println("Cadastro concluido você cadastrou "+soma+" alunos");
+     System.out.println("Em "+qtd+" turmas");
 
 
   }

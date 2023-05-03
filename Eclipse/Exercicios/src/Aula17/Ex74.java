@@ -3,7 +3,7 @@ package Aula17;
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-class Ex73 {
+class Ex74 {
   public static void main (String[] args) {
     Scanner scan = new Scanner(System.in);
     DecimalFormat df = new DecimalFormat("0,000.00");

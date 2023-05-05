@@ -399,23 +399,12 @@ Faça um programa que leia o código dos itens pedidos e as quantidades desejada
 
 103.	Criar um vetor A com 10 elementos inteiros. Escreva um programa que imprima cada elemento do vetor A e uma mensagem indicando se o respectivo elemento é um número primo ou não.
 
-34.	Criar um vetor A com 10 elementos inteiros. Escreva um programa que imprima cada elemento do vetor A e a relação de todos os pares de 0 até o respectivo elemento.
+104.	Criar um vetor A com 10 elementos inteiros. Escreva um programa que imprima cada elemento do vetor A e a relação de todos os pares de 0 até o respectivo elemento.
 
-35.	Criar um vetor A com 10 elementos inteiros. Escreva um programa que imprima cada elemento do vetor A e a relação de todos os divisores do respectivo elemento.
+105.	Criar um vetor A com 10 elementos inteiros. Escreva um programa que imprima cada elemento do vetor A e a relação de todos os divisores do respectivo elemento.
 
-36.	Criar um vetor A com 11 elementos, indexados de 0 até 10. Sendo que cada elemento do vetor A é formado pela potência de base 2 elevado ao expoente igual a posição do respectivo elemento, ou seja:
+106.	Criar um vetor A com 11 elementos, indexados de 0 até 10. Sendo que cada elemento do vetor A é formado pela potência de base 2 elevado ao expoente igual a posição do respectivo elemento, ou seja:
     A[i] = 2i. Sugestão int A[11];
 
-37.	Criar um vetor A com 15 elementos inteiros. Construir um vetor B de mesmo tamanho, sendo que cada elemento do vetor B seja o fatorial do elemento correspondente em A.
+107.	Criar um vetor A com 15 elementos inteiros. Construir um vetor B de mesmo tamanho, sendo que cada elemento do vetor B seja o fatorial do elemento correspondente em A.
  
-38.	Ler um vetor A com 10 elementos. Construir um vetor B de mesmo tipo e tamanho, sendo que cada elemento de B deverá ser o seguinte somatório: Bi = Somatório de Aj, para todo j variando de i até 10.
-
-39.	Criar dois vetores A e B cada um com 10 elementos inteiros. Desenvolver um programa que realize a interseção dos vetores A e B para produzir um vetor C. Interseção de conjuntos = todos os elementos que existem em A e também existem em B.
-
-40.	Criar dois vetores A e B cada um com 10 elementos inteiros. Desenvolver um programa que crie um vetor C que é a diferença dos conjuntos formados pelos elementos dos vetores A e B. Diferença de conjuntos = todos os elementos do conjunto A que não existem no conjunto B.
-
-41.	Ler 10 elementos inteiros em um vetor A. Montar uma rotina de busca, para pesquisar se um dado elemento X está armazenado em A.
-
-42.	Ler 10 elementos inteiros em um vetor A e colocá-los em ordem crescente e apresentar os elementos ordenados.
-
-  

@@ -70,4 +70,4 @@ Podemos tambem usar o método arredondar da classe Math para ter resultados melh
   System.out.println(vetorA[i]+"");
 ``` 
 
-### Operadores ternários
+### Operadores Ternários

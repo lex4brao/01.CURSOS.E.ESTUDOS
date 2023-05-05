@@ -41,3 +41,18 @@ public class ExemploDecimalFormat {
 }
 
 ```
+### Gerando Numeros Aleatórios
+Random, é uma classe pra essa clase é necessário incluir o java.util o mesmo do Scanner veja o Exemplo
+```
+import java.util.Random;
+
+public class Main {
+  public static void main(String[] args) {
+    Random rnd = new Random();
+    int valorAleatorio = rnd.nextInt(100);
+    System.out.println("Valor aleatório: " + valorAleatorio);
+  }
+}
+
+```
+quando colocamos random.nextInt(100) a classe tem um intervalo de 100 numeros para gerar, porem esse intervalo vai de 0 até 99, existe a possibilidade de se colocar maiores intervalos 1000 10000

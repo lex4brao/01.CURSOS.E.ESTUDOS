@@ -56,3 +56,18 @@ public class Main {
 
 ```
 quando colocamos random.nextInt(100) a classe tem um intervalo de 100 numeros para gerar, porem esse intervalo vai de 0 até 99, existe a possibilidade de se colocar maiores intervalos 1000 10000
+
+### Outro modo de gerar nnumero Randomicos
+podemos gerar numeros randomicos, através da classe Math da linguagem java, como o método Math.Random, porem o método retorna um numero real entre 0 e 1 ou seja de ponto flutuante, pra isso colocamos o ```(int)``` antes do méodo e multiplicamos para por 100 para ir de 0 até 99 ou 1000 para ir de 0 até 9999, veja o exemplo abaixo
+```
+  i = (int) (Math.random()*10); //é importante ambos estarem dentro dos parentes
+  System.out.println(i+"");
+
+``` 
+Podemos tambem usar o método arredondar da classe Math para ter resultados melhores veja o exemplo
+``` 
+  vetorA[i]=(int)Math.round(Math.random()*100);
+  System.out.println(vetorA[i]+"");
+``` 
+
+### Operadores ternários

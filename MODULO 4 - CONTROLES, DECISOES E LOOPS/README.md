@@ -165,8 +165,10 @@ if (sexo.equalsIgnoreCase("f")){
 ```
 Veja acima o método compara se o valor que está na String sexo é "f" ingnorando se "f" é minusculo ou maiusculo
 
-### ## Resolva a bateria de exercicíos
-  ### [Lista de Exercicíos](https://github.com/lex4brao/02.CURSO.DE.JAVA.-.LOIANE.GRONER/tree/main/RESOLUCAO%20DE%20EXERCICIOS)
+## Resolva a bateria de exercicíos
+### [Lista de Exercicíos](https://github.com/lex4brao/02.CURSO.DE.JAVA.-.LOIANE.GRONER/tree/main/RESOLUCAO%20DE%20EXERCICIOS)
+
+
 ## Aula 16
 
 ### Loops WHILE e Do WHILE 
@@ -268,8 +270,7 @@ class LoopFor {
   }
 }
 ```
-
-### ## Resolva a bateria de exercicíos
+## Resolva a bateria de exercicíos
   ### [Lista de Exercicíos](https://github.com/lex4brao/02.CURSO.DE.JAVA.-.LOIANE.GRONER/tree/main/RESOLUCAO%20DE%20EXERCICIOS)
 
 ## Aula 18

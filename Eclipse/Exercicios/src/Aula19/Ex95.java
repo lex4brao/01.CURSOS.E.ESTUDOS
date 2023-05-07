@@ -1,15 +1,10 @@
 package Aula19;
 
-import java.util.*;
-import java.text.DecimalFormat;
 
 public class Ex95 {
   public static void main (String[] args) {
-    Scanner scan = new Scanner(System.in);
-    Random rnd = new Random();
-    DecimalFormat df = new DecimalFormat("#.##");
 
-    int i=0, cont=0;
+    int i=0;
     int[] vetorA = new int[10];
     int[] vetorB = new int[10];
 
@@ -29,3 +24,4 @@ public class Ex95 {
     }
   }
 }
+

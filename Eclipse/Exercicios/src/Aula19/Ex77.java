@@ -4,7 +4,6 @@ import java.util.*;
 
 public class Ex77 {
   public static void main (String[] args) {
-    Scanner scan = new Scanner(System.in);
     Random rnd = new Random();
 
     int i=0;

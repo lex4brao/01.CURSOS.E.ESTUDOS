@@ -1,6 +1,6 @@
 # MÓDULO 5 - VETORES E MATRIZES
 
-### Aula 19
+## Aula 19
 
 ### Vetores (Arrays)
 Vetores é uma lista de dados, é muito parecido com uma coluna do excel, onde usamos cada linha da coluna para colocar dados, ou seja ao invés de colocarmos, cada dado em uma unica variável, criamos um vetor com um numero fixo de posições e cada posição armazena dados conforme o tipo do vetor, um vetor de 10 posições irá armazenar dados como se fosse 10 variáveis, as posições de um vetor é chamada de indices, e seus indices sempre começam do 0
@@ -53,3 +53,8 @@ public class Vetor2 {
 }
 
 ```
+## Resolva a bateria de exercicíos
+  ### [Lista de Exercicíos](https://github.com/lex4brao/02.CURSO.DE.JAVA.-.LOIANE.GRONER/tree/main/RESOLUCAO%20DE%20EXERCICIOS)
+
+  
+## Aula 20

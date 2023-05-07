@@ -4,13 +4,12 @@ import java.util.*;
 
 public class Ex82 {
   public static void main (String[] args) {
-    Scanner scan = new Scanner(System.in);
     Random rnd = new Random();
 
     int i=0;
     int[] vetorA = new int[10];
     int[] vetorB = new int[vetorA.length];
-    int[] vetorC = new int[vetorA.length];
+    int[] vetorC = new int[vetorA.length]; 
 
     System.out.println("\n Imprimindo o vetor A");
     for(i=0;i<vetorA.length;i++) {

@@ -2,7 +2,7 @@ package Aula19;
 
 public class Ex101 {
   public static void main (String[] args) {
-    int i=0, posB=0, posC=0;
+    int i=0, posB=0;
     int[] vetorA = new int[20];
     int[] vetorB = new int[vetorA.length];
     System.out.println("\n\tVetor A");

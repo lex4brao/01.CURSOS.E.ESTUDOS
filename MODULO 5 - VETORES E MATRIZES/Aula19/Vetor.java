@@ -6,7 +6,7 @@ public class Vetor {
     temperatura[0]=35.7;
     temperatura[1]=34.8;
     temperatura[2]=35;
-    temperatura[3]=35.2;
+    temperatura[3]=35.2; 
     temperatura[4]=36;
     System.out.println("Temperatura dia 1: " + temperatura[0]);
     System.out.println("Temperatura dia 2: " + temperatura[1]);

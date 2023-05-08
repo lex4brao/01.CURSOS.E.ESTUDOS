@@ -9,7 +9,9 @@ Eclipse/Exercicios/.project
 Eclipse/Exercicios/.settings
 Eclipse/Exercicios/bin
 Eclipse/Exercicios/src/module-info.java
+vscode
 *.tree
 *.launch
 *.png
 *.index
+.vscode

@@ -12,7 +12,7 @@ public class Ex75 {
     
     for(i=0;i<vetorA.length;i++) {
       System.out.print("Digite o valor da posição["+i+"]: ");
-      vetorA[] = scan.nextInt();
+      vetorA[i] = scan.nextInt();
       vetorB[i] = vetorA[i];
     } 
     System.out.println("\n\tImprimindo o vetor B");

@@ -418,9 +418,22 @@ Faça um programa que leia o código dos itens pedidos e as quantidades desejada
 
 111.	Faça um programa para armazenar em uma matriz os compromissos de uma agenda pessoal. Cada dia do mês deve conter 24 horas, onde para cada uma destas 24 horas podemos associar um tarefa específica (compromisso agendado). O programa deve ter um menu onde o usuário indica o dia do mês que deseja alterar e a hora, entrando em seguida com o compromisso, ou então, o usuário pode também consultar a agenda, fornecendo o dia e a hora para obter o compromisso armazenado.
 
-
 112.	Modifique o programa anterior de maneira a guardar os compromissos de todo o ano, organizados por mês, dia e hora (só 8 horas por dia).
 
 113.	Faça um programa para jogar o jogo da velha. O programa deve permitir que dois jogadores façam uma partida do jogo da velha, usando o computador para ver o tabuleiro. Cada jogador vai alternadamente informando a posição onde deseja colocar a sua peça (‘O’ ou ‘X’). O programa deve impedir jogadas inválidas e determinar automaticamente quando o jogo terminou e quem foi o vencedor (jogador1 ou jogador2). A cada nova jogada, o programa deve atualizar a situação do tabuleiro na tela.
+
+
+## Lista de Exercícios Aula 21
+
+114. Escreva um programa que verifique se um número é positivo, negativo ou zero usando um operador ternário.
+
+115. Escreva um programa que determine se um caractere é uma vogal ou uma consoante usando um operador ternário.
+
+116. Crie um programa que verifique se um número é par ou impar, usando um operador ternário.
+
+117. Escreva um programa que compare dois números inteiros e retorne o maior deles usando um operador ternário.
+
+118. Escreva um programa que classifique uma nota em conceitos A, B, C, D ou F usando um operador ternário.
+
 
 

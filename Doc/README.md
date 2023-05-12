@@ -69,5 +69,3 @@ Podemos tambem usar o método arredondar da classe Math para ter resultados melh
   vetorA[i]=(int)Math.round(Math.random()*100);
   System.out.println(vetorA[i]+"");
 ``` 
-
-### Operadores Ternários

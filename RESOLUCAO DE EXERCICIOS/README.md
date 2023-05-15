@@ -436,4 +436,19 @@ Faça um programa que leia o código dos itens pedidos e as quantidades desejada
 118. Escreva um programa que classifique uma nota em conceitos A, B, C, D ou F usando um operador ternário.
 
 
+## Lista de Exercícios Aula 22 
+Utilize o for each para resolução dos exercicios da aula 22
 
+119. Calcule a soma de todos os elementos de um array de inteiros.
+
+120. Encontre o maior número em um array de inteiros.
+
+121. Verifique se um determinado valor está presente em um array.
+     
+122. Imprima somente os valores pares do array 
+
+123. Imprima os elementos de um array em ordem inversa. 
+
+124. Encontre a média de Valores de um vetor
+
+125. Imprima a taubuada utilizando um numero escolhido pelo usuário  

@@ -447,7 +447,7 @@ Utilize o for each para resolução dos exercicios da aula 22
      
 122. Imprima somente os valores pares do array 
 
-123. Imprima os elementos de um array em ordem inversa. 
+123. Substitua todos os elementos de um array por um valor específico. 
 
 124. Encontre a média de Valores de um vetor
 

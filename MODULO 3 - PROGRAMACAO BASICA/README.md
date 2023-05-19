@@ -2,8 +2,8 @@
 ## Aula 10
 
 ### O que é uma variável
-Imagine que você tem arquivos em um pendrive, ou em uma nuvem, esse arquivo tem um endereço na na memoria por exemplo uma foto está no endereço "c:/meus_arquivos/fotos/eu.jpg" variaveis são referencias para um endereço na memória
-Variável é uma referencia para o endereço para guardar valores de uma aplicação, por exemplo nome, idade, ou seja
+Imagine que você tem arquivos em um pendrive, ou em uma nuvem, esse arquivo tem um endereço na memória por exemplo uma foto está no endereço "c:/meus_arquivos/fotos/eu.jpg" variáveis são referências para um endereço na memória
+Variável é uma referência para o endereço para guardar valores de uma aplicação, por exemplo nome, idade ou seja
 
 **Variável é uma área na memória associada a um nome, que pode armazenar valores de um determinado tipo**
 
@@ -12,12 +12,12 @@ Variável é uma referencia para o endereço para guardar valores de uma aplica�
   - <tipo da variável> <nome da variavel> = <valor da variável>
     - **o sinal de igual "=" é um operador de atribuição de valor**
 
-### Padrões de nomeclatura de uma variável
+### Padrões de nomenclatura de uma variável
 #### Não pode
   - Palavras Reservadas (Java tem mais em 70 palavras reservadas)
   - Caracteres especial (&%$#@_)
-  - Iniciar com Numeros
-  - Começar com uma letra maiuscula
+  - Iniciar com Números
+  - Começar com uma letra maiúscula
 
 ### Tipos Primitivo
   - Inteiro "int"
@@ -25,7 +25,7 @@ Variável é uma referencia para o endereço para guardar valores de uma aplica�
   - Caracteres "char"
   - Logico  "boolean"
 
-### Declarando as Variaveis
+### Declarando as Variáveis
 Vamos criar uma class para declarar algumas variáveis
 
 ```
@@ -45,27 +45,27 @@ class DeclarandoVariaveis {
 ## Aula 11
 
 ### Os tipos primitivos em Java
-Básicamente temos 4 tipos primitivos em java que são:
+Basicamente temos 4 tipos primitivos em java que são:
   - Inteiros
   - Ponto flutuante 
   - Caracter 
   - Booleanos
   - Literais
 
-Nos tipos para numeros temos:
+Nos tipos para números temos:
   - Inteiro
     - byte
     - short
     - int
     - long
-    - char (caracter é considerado como um numero inteiro)
+    - char (caracter é considerado como um número inteiro)
   
   - Ponto flutuante (Reais)
     - float
     - double
 
 ### Os inteiros
-Veja na tabela abaixo o tamanho de cada tipo inteiro ocupa na memoria e os seus valores:
+Veja na tabela abaixo o tamanho de cada tipo inteiro ocupa na memória e os seus valores:
 | Tipo       | Tamanho (bits)    | Valores Suportado        |
 | ---------- | ----------------- | ------------------------  |
 | byte | 8 | -128 até 127|
@@ -82,18 +82,18 @@ Veja na tabela o tamanho de cada tipo:
 | float | 8 | 
 | double | 16 |
 
-Na lingagem Java utilizamos o ponto "." para separar os valores decimais, e a virgula "," para separar os milhares ao contrario do padrão brasileiro
-Quando utilizamos o tipo primitivo float é necessario colocar um f após a sua atribuição de valores veja o exemplo junto com o double
+Na linguagem Java utilizamos o ponto "." para separar os valores decimais, e a virgula "," para separar os milhares ao contrário do padrão brasileiro
+Quando utilizamos o tipo primitivo float é necessário colocar um f após a sua atribuição de valores veja o exemplo junto com o double
 ```
 float saldo1 = 1,300.30f
 double saldo2 = 1,300.30
 ```
 isso é um grande motivo que o float é muito pouco usado
 
-Obs: as váriaveis de ponto flutuente tem suporte a notações cientificas como "123e4"
+Obs.: as variáveis de ponto flutuante têm suporte a notações cientificas como "123e4"
 
 ### Caracter "Char"
-Uma letra do alfabeto nada mais é que uma letra do alfabeto, a linguagem java suporta os caracter da tabela ASCII e cada caracter na tabela tem um valor por isso o tipo char entra como um tipo inteiro, java também suporta as tabelas unicode no caso do português utilizamos a tabela UTF-8
+Uma letra do alfabeto nada mais é que uma letra do alfabeto, a linguagem java suporta os caracter da tabela ASCII e cada caracter na tabela tem um valor por isso o tipo char entra como um tipo inteiro, java também suporta as tabelas Unicode no caso do português utilizamos a tabela UTF-8
   #### [Veja a tabela ASCII](https://www.asciitable.com/)
   #### [Veja a tabela UTF-8](https://www.utf8-chartable.de/)
 
@@ -101,7 +101,7 @@ Uma letra do alfabeto nada mais é que uma letra do alfabeto, a linguagem java s
 são variáveis do tipo lógica que recebem valores verdadeiro ou falso
 
 ### Hands On
-Vamos criar um programa que declarando os tipos de variaveis e fazer um output para mostrar os valores das variaveis
+Vamos criar um programa que declarando os tipos de variáveis e fazer um output para mostrar os valores das variáveis
 
 ```
 public class Tiponumeros {
@@ -177,14 +177,14 @@ public class Literais {
 
 }
 ```
-veja que para converter o valor utilizamos o prefixo "0b" para binário, "0" para octal, "0x" para hexadecimal, para atribuição de valores na váriavel veja que no output sairá todos os valores na base decimal
+veja que para converter o valor utilizamos o prefixo "0b" para binário, "0" para octal, "0x" para hexadecimal, para atribuição de valores na variável veja que no output sairá todos os valores na base decimal
 
 ### Strings
-String não é um tipo primitivo em java String é uma classe, nota-se que até na sua declaração o "S" é escrito em maiusculo, acredito eu que é para deixar clara que se trata de uma classe e não um tipo primitivo, porem para facilitar nossa vida em escrever textos vamos a alguns escape na linguagem Java
+String não é um tipo primitivo em java String é uma classe, nota-se que até na sua declaração o "S" é escrito em maiúsculo, acredito eu que é para deixar clara que se trata de uma classe e não um tipo primitivo, porem para facilitar nossa vida em escrever textos vamos a alguns escape na linguagem Java
 
-### Sequencia de Escape
-  - \\t	tabulação horizontal
-  - \\n	newline
+### Sequência de Escape
+  - \\t	Tabulação horizontal
+  - \\n	Quebra de Linha
   - \\r	carriage return
   - \\\"	aspas
   - \\\'	aspas simples
@@ -201,11 +201,11 @@ A API do Java está organizada em várias pastas, por causa dessa organização 
 
 ```
 ```
-### Lendo os tipos especificos
+### Lendo os tipos específicos
 Para ler um tipo especifico dado digitado no teclado conforme o tipo primitivo utilizamos alguns métodos que está presente na classe Scanner que apelidamos de "scan" vamos aos métodos:
 ```
-  Stiing nomeCompleto = scan.nextLine(); /* Lê todos os dados digitado na linha */
-  String nome = scan.next(); /* Lê somente uma palavra */
+  Stiing nomeCompleto = scan.nextLine(); /* lê todos os dados digitado na linha */
+  String nome = scan.next(); /* lê somente uma palavra */
   int idade = scan.nextInt();
   double altura = scan.Double();
 ```
@@ -233,11 +233,11 @@ public class LeituraTeclado {
 	  double altura = scan.nextDouble();
 	  System.out.println("Você tem "+altura+" metros");
 	  
-	  System.out.println("Qual seu nome?, Sua idade?, qual sua altura?");
+	  System.out.println("Qual seu nome? Sua idade?, qual sua altura?");
 	  nome= scan.next();
 	  idade= scan.nextInt();
 	  altura= scan.nextDouble();
-	  System.out.println("Voce se chama "+nome+" tem "+idade+" anos, e tem "+altura+"m de altura");
+	  System.out.println("Você se chama "+nome+" tem "+idade+" anos, e tem "+altura+"m de altura");
   
   }
 }
@@ -246,7 +246,7 @@ public class LeituraTeclado {
 ## Aula 13
 
 ### Os Operadores 
-  - Operadores Aritimético
+  - Operadores Aritmético
   - Operadores Relacionais
   - Operadores Lógicos
   - Operadores de Assignment
@@ -255,7 +255,7 @@ public class LeituraTeclado {
 ### O que são operadores
 Os operadores são símbolos que solicitam ao compilador realizar alguma operação, a soma, subtração, divisão, multiplicação
 
-### Os Operadores Aritiméticos
+### Os Operadores Aritméticos
 | Operador | Operação |
 | -------- | -------- |
 | + | adição (positivo unário) |
@@ -267,7 +267,7 @@ Os operadores são símbolos que solicitam ao compilador realizar alguma operaç
 | -- | Decremento (pós ou pré fix) |
 
 ### Operação de incremento e decremento
-Quando usamos o "++" irá ser somado +1 no valor, quando usamos "--" irá ser subtraido -1 do valor porém existe uma ordem a ser colocada esse esse operator veja o exemplo: 
+Quando usamos o "++" irá ser somado +1 no valor, quando usamos "--" irá ser subtraído -1 do valor, porém existe uma ordem a ser colocada esse operador veja o exemplo: 
 ```
 	int valor = 8;
 	System.out.println(valor++);
@@ -318,12 +318,12 @@ public class OperadoresAritimeticos {
   }
 }
 ```
-### Funções Matematicas
-Java tem uma classe chamata Math em sua biblioteca nativa, que existe diversas metodos(funções) que no ajuda na hora de nos auxiliam muito na hora de operações aritiméticas vamos a tabela:
+### Funções Matemáticas
+Java tem uma classe chamada Math em sua biblioteca nativa, que existe diversos métodos(funções) que na ajuda na hora de nos auxiliam muito na hora de operações aritméticas vamos a tabela:
 
 <table>
   <tr>
-    <th>Metodo</th>
+    <th>Método</th>
     <th>Exemplo</th>
     <th>Comentário</th>
   </tr>
@@ -405,7 +405,7 @@ Java tem uma classe chamata Math em sua biblioteca nativa, que existe diversas m
   </table>
 
 ### Formatação de Casas decimais
-No java temos a classe DecimalFormart onde podemos formatar as casas decimal de um numero real("double") veja o exemplo abaixo como proceguir:
+No java temos a classe DecimalFormart onde podemos formatar as casas decimal de um número real("double") veja o exemplo abaixo como prosseguir:
 ```
 package Aula13;
 
@@ -427,7 +427,7 @@ public class CasasDecimal {
 ### Operadores Relacionais
 | Operador | Operação |
 | -------- | -------- |
-| == | igua a |
+| == | igual a |
 | != | diferente de |
 | > | maior que |
 | < | menor que |
@@ -493,7 +493,7 @@ public class OperadoresRelacionais {
 | Verdadeiro | Verdadeiro | Verdadeiro | Verdadeiro | Falso | Falso |
 
 ### O que é curto Circuito
-A operação com curso circuito, tem mais influencia na execução rapida de nosso programa a linguagem java faz uma verificação com o primeiro valor junto a tabela verdade por exemplo se um valor for falso e a operação é "And" o Java já saberá que o resultado é falso e nem análizará o segundo valor, da mesma forma se a operação for "OR" e o primeiro valor for verdadeiro ela já sabe que seu resultado será verdadeiro e não análizará o segundo valor 
+A operação com curso circuito, tem mais influência na execução rápida de nosso programa a linguagem java faz uma verificação com o primeiro valor junto a tabela verdade por exemplo se um valor for falso e a operação é "And" o Java já saberá que o resultado é falso e nem analisará o segundo valor, da mesma forma se a operação for "OR" e o primeiro valor for verdadeiro ela já sabe que seu resultado será verdadeiro e não analisará o segundo valor 
 Então no dia a dia sempre utilizamos as operações de curto circuito
 
 ### Hands on
@@ -529,8 +529,8 @@ public class OperadoresLogico {
 
 }
 ```
-### Oderm de Precedencia
-A Tabela abaixo é uma ordem de precedencia da linguagem java, a linguagem executará as operações em ordem do primeiro ao ultimo, caso uma expressão aritimética tenha soma e multiplicação, a linguagem executará primeiro a multiplicação depois a soma 
+### Ordem de Precedência
+A Tabela abaixo é uma ordem de precedência da linguagem java, a linguagem executará as operações em ordem do primeiro ao último, caso uma expressão aritmética tenha soma e multiplicação, a linguagem executará primeiro a multiplicação depois a soma 
 <table>
   <tr>
     <th>Ordem</th>
@@ -609,5 +609,5 @@ A Tabela abaixo é uma ordem de precedencia da linguagem java, a linguagem execu
   </tr>
   </table>
 
-  ## Resolva a bateria de exercicíos
+  ## Resolva a bateria de exercícios
   ### [Lista de Exercicíos](https://github.com/lex4brao/02.CURSO.DE.JAVA.-.LOIANE.GRONER/tree/main/RESOLUCAO%20DE%20EXERCICIOS)

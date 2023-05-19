@@ -49,3 +49,6 @@ Podemos utilizar o For each para percorrer um vetor também como a soma de seus 
         System.out.println(soma);
 ```
 acho q a sintaxe do comando deixa claro como ele funciona onde a variavel "numero" recebe o valor do elemento do vetor a cada volta passa para o proximo indice iniciando de 0 até o ultimo indice do vetor
+
+## Aula 23
+### Debug no Eclipse

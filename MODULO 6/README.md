@@ -1,6 +1,6 @@
 ## Aula 21
 ### Operadores Ternários
-Operadores Ternários são uma forma concisa de expressar uma estrutura condicional em uma única linha de código. Ele permitem tomar decisões com base em uma unica condição e retornar um valor ou executar uma operação especifica, ou seja, quanto quando uma condicional se consiste somente do comando "if" e else, podemos utilizar um operador ternário reduzindo nossa condição em apenas uma linha de código
+Operadores Ternários são uma forma concisa de expressar uma estrutura condicional em uma única linha de código. Ele permite tomar decisões com base em uma única condição e retornar um valor ou executar uma operação especifica, ou seja, quanto quando uma condicional se consiste somente do comando "if" e else, podemos utilizar um operador ternário reduzindo nossa condição em apenas uma linha de código
 **Exemplo de estrutura condicional**
 ```
 if(x%2==0){
@@ -14,7 +14,7 @@ if(x%2==0){
 ```
  System.out.println((x%2==0)? "O valor "+x+" é par" : "O valor "+x+" é impar");
 ```
-note que com o operador ternário em uma unica linha de código montamos toda uma estrutura condicional
+note que com o operador ternário em uma única linha de código montamos toda uma estrutura condicional
 
 
 ## Aula 22
@@ -48,7 +48,7 @@ Podemos utilizar o For each para percorrer um vetor também como a soma de seus 
         }
         System.out.println(soma);
 ```
-acho q a sintaxe do comando deixa claro como ele funciona onde a variavel "numero" recebe o valor do elemento do vetor a cada volta passa para o proximo indice iniciando de 0 até o ultimo indice do vetor
+acho q a sintaxe do comando deixa claro como ele funciona onde a variável "numero" recebe o valor do elemento do vetor a cada volta passa para o próximo índice iniciando de 0 até o ultimo índice do vetor
 
 ## Aula 23
 ### Debug no Eclipse

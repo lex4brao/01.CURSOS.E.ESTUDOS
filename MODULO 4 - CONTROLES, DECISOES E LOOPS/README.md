@@ -3,10 +3,10 @@
 ## Aula 14
 
 ### Estrutura de Decisão
-Na linguagem java temos o comando IF("SE") e o comando ELSE("SENÃO"), te amos eles juntos ELSE IF("SENÃO SE)
+Na linguagem Java temos o comando IF("SE") e o comando ELSE("SENÃO"), te amos eles juntos ELSE IF("SENÃO SE)
 
 ### O comando IF (Se)
-O IF é uma condicional, ou seja se a condição proposta ao comando if for "verdadeira" o programa irá executar um bloco de comandos, se a condição for "falsa" o bloco não será executado vamos ao exemplo: 
+O IF é uma condicional, ou seja, se a condição proposta ao comando if for "verdadeira" o programa irá executar um bloco de comandos, se a condição for "falsa" o bloco não será executado vamos ao exemplo: 
 
 ```
 package Aula14;
@@ -27,7 +27,7 @@ class IfElse {
 ```
 
 ### O Comando ELSE (Senão)
-O ELSE também é uma condicional, porém o comando else só será execudado quando a condicional do comando if for falsa e os comandos dentro do  se bloco também 
+O ELSE também é uma condicional, porém o comando else só será executado quando a condicional do comando if for falsa e os comandos dentro do  se bloco também 
 
 ```
 package Aula14;
@@ -50,7 +50,7 @@ class IfElse {
 ```
 
 ### Else If
-Na estrutura condicional if e else pose ser pode conter uma tercira condicional, no portugues falamos senão se que podemos utilizar o else if veja o exemplo abaixo:
+Na estrutura condicional if e else pose ser pode conter uma terceira condicional, no português falamos senão se que podemos utilizar o else if veja o exemplo abaixo:
 
 ```
 package Aula14;
@@ -90,11 +90,11 @@ class SwitchCase {
   public static void main (String[] args) {
     Scanner scan = new Scanner(System.in);
 
-    System.out.print("Digite um numero do dia da semana(1-7:  ");
+    System.out.print("Digite um número do dia da semana(1-7:  ");
     int dia = scan.nextInt();
 
     if (dia==1){;
-      System.out.println("Domigo");
+      System.out.println("Domingo");
     } else if (dia==2){;
       System.out.println("Segunda - Feira");
     } else if (dia==3){;
@@ -106,7 +106,7 @@ class SwitchCase {
     } else if (dia==6){;
       System.out.println("Sexta - Feira");
     } else if (dia==7){;
-      System.out.print("Sabado");
+      System.out.print("Sábado");
     } else {;
       System.out.println("Não é um dia da semana valido");
     } 
@@ -118,7 +118,7 @@ class SwitchCase {
       case 4: System.out.println("Quarta"); break;
       case 5: System.out.println("Quinta"); break;
       case 6: System.out.println("Sexta"); break;
-      case 7: System.out.println("Sabado"); break;
+      case 7: System.out.println("Sábado"); break;
       default: System.out.println("Não é um dia da semana");
     }
 
@@ -126,7 +126,7 @@ class SwitchCase {
 }
 ```
 ### Comando BREAK
-noste que após cada comando de caso utilizamos o comando break esse comando é como um pare ou breque, se não colocado o comando  switch executará  todos os outros casos apartir do caso q ele começar
+note que após cada comando de caso utilizamos o comando break esse comando é como um pare ou breque, se não colocado o comando  switch executará  todos os outros casos a partir do caso q ele começar
 
 ```
 package Aula14;
@@ -136,14 +136,14 @@ class SwitchCase2 {
   public static void main (String[] args) {
     Scanner scan = new Scanner(System.in);
 
-    System.out.print("Digite um numero do dia da semana :");
+    System.out.print("Digite um número do dia da semana :");
     int dia = scan.nextInt();
     switch(dia){
-      case 2: System.out.println("Dia util"); 
-      case 3: System.out.println("Dia util"); 
-      case 4: System.out.println("Dia util"); 
-      case 5: System.out.println("Dia util"); 
-      case 6: System.out.println("Dia util"); break;
+      case 2: System.out.println("Dia útil"); 
+      case 3: System.out.println("Dia útil"); 
+      case 4: System.out.println("Dia útil"); 
+      case 5: System.out.println("Dia útil"); 
+      case 6: System.out.println("Dia útil"); break;
       case 1: System.out.println("Final de Semana");
       case 7: System.out.println("Final de Semana"); break;
     }
@@ -152,10 +152,10 @@ class SwitchCase2 {
 }
 ```
 ### Suporte do Switch
-As condições suportada na estrutura condicional if e else só são aceitas condicionais boolean ou seja, verdadeiro ou falso, no Switch-Case tem suporte de compar, numeros inteiros, como do exemplo, também suporta caracter e também tem suporte a String, por exemplo poderia ter colocado para ler do teclado o nome do dia da semana e o programa mostrar o numero do dia
+As condições suportadas na estrutura condicional if e else só são aceitas condicionais boolean ou seja, verdadeiro ou falso, no Switch-Case tem suporte de comparar, números inteiros, como do exemplo, também suporta caracter e também tem suporte a String, por exemplo poderia ter colocado para ler do teclado o nome do dia da semana e o programa mostrar o número do dia
 
 ### Análise na String
-Como já foi dito String não é um tipo de variável na lingugagem Java e sim um tipo de classe da nativa da linguagem dentro dessa classe existe vários métodos(funções), para analizarmos o conteudo de uma String na utilização das condicionais IF e Else temos o método ```equalsIgnoreCase()``` ele faz a comparação com o conteudo de uma String ignorando se as letas estão em maiusculo ou minusculo e retorna uma valor boolian vamos ao exemplo
+Como já foi dito String não é um tipo de variável na linguagem Java e sim um tipo de classe da nativa da linguagem dentro dessa classe existe vários métodos(funções), para analisarmos o conteúdo de uma String na utilização das condicionais IF e Else temos o método ```equalsIgnoreCase()``` ele faz a comparação com o conteúdo de uma String ignorando se as letas estão em maiúsculo ou minúsculo e retorna um valor boolean vamos ao exemplo
 
 ```
 String sexo = "f"
@@ -163,9 +163,9 @@ if (sexo.equalsIgnoreCase("f")){
   System.out.println("Feminino")
 }
 ```
-Veja acima o método compara se o valor que está na String sexo é "f" ingnorando se "f" é minusculo ou maiusculo
+Veja acima o método compara se o valor que está na String sexo é "f" ignorando se "f" é minúsculo ou maiúsculo
 
-## Resolva a bateria de exercicíos
+## Resolva a bateria de exercícios
 ### [Lista de Exercicíos](https://github.com/lex4brao/02.CURSO.DE.JAVA.-.LOIANE.GRONER/tree/main/RESOLUCAO%20DE%20EXERCICIOS)
 
 
@@ -174,7 +174,7 @@ Veja acima o método compara se o valor que está na String sexo é "f" ingnoran
 ### Loops WHILE e Do WHILE 
 
 ### O comando while
-O comando while siguinifica enquando, o comando avalia uma expressão ou condição e enquando ela for verdadeira ele executa um bloco de comando veja o exemplo abaixo
+O comando while significa enquanto, o comando avalia uma expressão ou condição e enquanto ela for verdadeira ele executa um bloco de comando veja o exemplo abaixo
 
 ```
 class LoopWhile {
@@ -192,7 +192,7 @@ class LoopWhile {
 ```
 
 ### o Comando do-while
-O comando do-while que siguinifica faça enquanto, é similar o comando while porem ele faz a verificação da expressão ou condição após executar o bloco de comando veja o exemplo abaixo
+O comando do-while que significa faça enquanto, é similar o comando while porem ele faz a verificação da expressão ou condição após executar o bloco de comando veja o exemplo abaixo
 ```
 class LoopWhile {
   public static void main (String[] args) {
@@ -209,7 +209,7 @@ class LoopWhile {
 ## Aula 17
 
 ### O Loop For
-O comando for é o mais utilizado dentro da programação ele também executa um bloco de comandos enquando uma expressão ou condição for verdadeira 
+O comando for é o mais utilizado dentro da programação ele também executa um bloco de comandos enquanto uma expressão ou condição for verdadeira 
 O comando for é mais utilizado por oferecer a possibilidade de inicializar uma variável, colocar uma condição e colocar uma atualização como o incremento, tudo em uma linha de comando 
 
 ```
@@ -226,7 +226,7 @@ class LoopFor {
 Vale observar, que quando uma variável é declarada dentro do comando for, ela só poderá ser utilizada dentro do bloco de comando for 
 
 ### For com mais de uma variável
-Veja que dentro dos parâmentros do comando for separamos por ; (ponto é virgula) como se fosse uma linha de comando temos a possibilidade de separar as variáveis por virgula
+Veja que dentro dos parâmetros do comando for separamos por ; (ponto é virgula) como se fosse uma linha de comando temos a possibilidade de separar as variáveis por virgula
 
 ```
 class LoopFor {
@@ -240,7 +240,7 @@ class LoopFor {
 }
 ```
 ### For com partes ausentes
-o comando for pode ser utilizado com partes ausentes como iniciar a variavel fora do comando for veja o exemplo:
+o comando for pode ser utilizado com partes ausentes como iniciar a variável fora do comando for veja o exemplo:
 
 ```
 class LoopFor {
@@ -270,7 +270,7 @@ class LoopFor {
   }
 }
 ```
-## Resolva a bateria de exercicíos
+## Resolva a bateria de exercícios
   ### [Lista de Exercicíos](https://github.com/lex4brao/02.CURSO.DE.JAVA.-.LOIANE.GRONER/tree/main/RESOLUCAO%20DE%20EXERCICIOS)
 
 ## Aula 18
@@ -284,7 +284,7 @@ class BreakContinue {
   public static void main (String[] args) {
     Scanner scan = new Scanner(System.in);
 
-    System.out.println("Entre com um numero");
+    System.out.println("Entre com um número");
     int nun= scan.nextInt();
     System.out.println("Entre com um com um limite");
     int max= scan.nextInt();
@@ -298,7 +298,7 @@ class BreakContinue {
 }
 ```
 ### Break com rótulos (label) - GoTo
-Rótulos são nomes que damos para um bloco de comandos, quando usamos o break com rótulos podemos parar a execução de um loop e mandar o programa para um bloco de comandos expecifico veja o exemplo abaixo
+Rótulos são nomes que damos para um bloco de comandos, quando usamos o break com rótulos podemos parar a execução de um loop e mandar o programa para um bloco de comandos especifico veja o exemplo abaixo
 ```
 class Rotulo {
   public static void main (String[] args) {
@@ -330,7 +330,7 @@ class Rotulo {
 ```
 
 ### Continue
-O comando Continue é um complemento do código break, ele continua o loop apartir do ponto espeficiado com o comando, veja o exemplo abaixo
+O comando continue é um complemento do código break, ele continua o loop a partir do ponto especificado com o comando, veja o exemplo abaixo
 ```
 import java.util.Scanner;
 

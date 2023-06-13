@@ -72,3 +72,48 @@ public class Main {
 }
 ```
 
+## Aula 7 - IDE: Ambiente de Desenvolvimento Integrado
+
+IDE – Ambiente Integrado de Desenvolvimento. É um conjunto de softwares utilizado para a construção de programas
+
+Funcionalidades de uma IDE
+
+- Edição de código fonte (endentação, autocompletar, destaque de palavras, etc.)
+- Depuração e testes
+- Construção do produto final (build)
+- Sugestão de modelos (templates)
+- Auxiliar em várias tarefas do seu projeto
+- Etc
+
+## Aula 8 - Compilação e interpretação de Código fonte e objeto, Máquina virtual
+
+Código fonte: é aquele escrito pelo programador em linguagem de programação
+
+### Compilação: 
+  
+  Codigo Fonte -> [Compilador] -> Código Objeto -> [Gerador de código: construção (build)] -> Código Executável
+
+Linguagens que tipicamente usam essa abordagem: C, C++
+
+### Interpretação:
+
+  Codigo Fonte -> [Interpretador] -> Código Executável
+
+Linguagens que tipicamente usam essa abordagem: PHP, JavaScript, Python, Ruby
+
+### Abordagem híbrida
+
+  Codigo Fonte -> [Compilador] -> ByteCode -> [Máquina virtual: interpretação] -> Execução
+
+Linguagens que tipicamente usam essa abordagem: Java (JVM), C# (Microsoft .NET Framework)
+
+### Vantagens da Compilação: 
+
+- velocidade do programa
+- auxílio do compilador antes da execução
+
+### Vantagens da Interpretação: 
+
+- flexibilidade de manutenção do aplicativo em produção
+- expressividade da linguagem
+- código fonte não precisa ser recompilado para rodar em plataformas diferentes

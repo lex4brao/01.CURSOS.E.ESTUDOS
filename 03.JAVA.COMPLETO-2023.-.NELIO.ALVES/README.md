@@ -4,4 +4,4 @@
 [Click aqui e acesse o curso](https://www.udemy.com/course/java-curso-completo/)
 ## Seção 1 - Introdução
 
-## [Seção 2 - Conceitos de Programação](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/03.JAVA.COMPLETO-2023.-.NELIO.ALVES/2-CONCEITOS)
+## [Seção 2 - Conceitos de Programação](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/03.JAVA.COMPLETO-2023.-.NELIO.ALVES/2-CONCEITOS.DE.PROGRAMACAO)

@@ -27,9 +27,9 @@ Consiste em utilizar máquina(s) para executar o procedimento desejado de forma 
 
 - Programas de computador são algoritmos executados pelo computador (em linhas gerais).
 - Conclusão: o computador é uma máquina que automatiza a execução de algoritmos.
-    Qualquer algoritmo? Não. Apenas algoritmos computacionais:
-    - Processamento de dados
-    - Cálculos
+Qualquer algoritmo? Não. Apenas algoritmos computacionais:
+  - Processamento de dados
+  - Cálculos
 
 ## Aula 5 - O que é preciso para se fazer um programa de computador?
 
@@ -48,7 +48,6 @@ Vamos precisar de:
 Exemplos de linguagens de programação: C, Pascal, C++, Java, C#, Python, Ruby, PHP, JavaScript, etc.
 
 - Léxica - Diz respeito à correção das palavras "isoladas" (ortografia).
-
 - Sintática - Diz respeito à correção das sentenças (gramática).
 
 Exemplo de um programa: Suponha um programa que solicita do usuário dois números e depois mostra a média aritmética deles:

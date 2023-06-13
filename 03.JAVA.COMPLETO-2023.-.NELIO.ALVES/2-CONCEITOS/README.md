@@ -35,10 +35,10 @@ Consiste em utilizar máquina(s) para executar o procedimento desejado de forma 
 
 Vamos precisar de:
 
-- Uma linguagem de programação: regras léxicas e sintáticas para se escrever o programa
-- Uma IDE: software para editar e testar o programa
-- Um compilador: software para transformar o código fonte em código objeto
-- Um gerador de código ou máquina virtual: software que permite que o programa seja executado
+1. Uma linguagem de programação: regras léxicas e sintáticas para se escrever o programa
+2. Uma IDE: software para editar e testar o programa
+3. Um compilador: software para transformar o código fonte em código objeto
+4. Um gerador de código ou máquina virtual: software que permite que o programa seja executado
 
 ## Aula 6 - Linguagem de programação, léxica, sintática
 

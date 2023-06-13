@@ -2,7 +2,8 @@
 
 ## Aula 4 -  Algoritmo, Automação, Programa de Computador
 
-- Algoritmo:
+### Algoritmo:
+
 Sequência finita de instruções para se resolver um problema
 
 Exemplo: lavar roupa suja
@@ -18,7 +19,7 @@ Algoritmo:
   7. Enxaguar
   8. Torcer
 
-- Automação:
+### Automação:
 
 Consiste em utilizar máquina(s) para executar o procedimento desejado de forma automática ou semiautomática
 
@@ -41,7 +42,7 @@ Vamos precisar de:
 
 ## Aula 6 - Linguagem de programação, léxica, sintática
 
-- Linguagem de programação
+### Linguagem de programação
 
 É um conjunto de regras léxicas (ortografia) e sintáticas (gramática) para se escrever programas.
 Exemplos de linguagens de programação: C, Pascal, C++, Java, C#, Python, Ruby, PHP, JavaScript, etc.

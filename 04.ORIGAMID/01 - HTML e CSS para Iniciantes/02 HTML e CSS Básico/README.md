@@ -23,7 +23,7 @@ Os atributos dão informaçoes extras sobre uma tag pra o browser, os atributos 
 A tag para link é a tag ```<a>``` porém só abrindo a tag colocando o conteudo e fechando a tag não direcionará o browser para a pagina do google pra isso precisamos colocar um atributo na tag ```<a>``` veja:
 
 ```html
-<a href="http://google.com>Google</a>
+<a href="http://google.com">Google</a>
 ```
 com o atributo href podemos direcionar o browser para a pagina do google
 
@@ -109,3 +109,5 @@ Todo o Conteudo visivel no nosso site, este é o corpo do nosso documento html, 
   <p>Este é o corpo do documento html</p>
 </body>
 ```
+
+# [Voltar](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/04.ORIGAMID/01%20-%20HTML%20e%20CSS%20para%20Iniciantes)

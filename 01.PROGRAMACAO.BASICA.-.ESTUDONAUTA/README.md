@@ -52,7 +52,7 @@ Para os estudos e desenvolvimentos das atividades desde curso será usado a "IDE
 
 ### - Estruturas de Repetição Aninhadas
 
-## [Módulo 4 - Vetores e Matrizes1](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/MODULO%204%20-%20VETOR%20E%20MATRIZ/README.md)
+## [Módulo 4 - Vetores e Matrizes](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/MODULO%204%20-%20VETOR%20E%20MATRIZ/README.md)
 
 ### - Vetores
 

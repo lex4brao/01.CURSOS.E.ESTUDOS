@@ -1,4 +1,3 @@
-
 # MÓDULO 2 - ESTRUTURAS CONDICIONAIS
 
 ## Aula 0
@@ -207,7 +206,8 @@ Note e a condição do SE foram usadas operações relacionais como >= e <= e op
 
 \*\*OBS.: veja q o portugol é case sensitive, ou seja, caracteres maiúsculos e minúsculos fazem toda a diferença então sempre que for usar os comandos "se", "ou", "e", "nao", é sempre em minúsculo
 
-### Faça os exercícios 13, 14, 15 
+### Faça os exercícios 13, 14, 15
+
 ### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
 
 ## Aula 4
@@ -247,6 +247,7 @@ programa
 ```
 
 ### Resolva os exercícios 16, 17, 18, 19, 20
+
 ### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
 
 ## Aula 5
@@ -286,7 +287,9 @@ programa
   }
 }
 ```
-### Resolva os exercícios 21, 22, 23, 24 e 25 
+
+### Resolva os exercícios 21, 22, 23, 24 e 25
+
 ### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
 
 ## Aula 6
@@ -318,9 +321,8 @@ escolha(num){
 Note que conforme o valor da variável nun receba o valor um o programa irá escrever "Um" e assim sequencialmente, note que o caso contrário faze meio q o papel do senão se não for nenhum dos valores esperados ela escreve uma mensagem em referência a isso
 Outro aspecto muito importante para é o comando pare se ele não for colocado a estrutura executará todos os outros blocos de comando da estrutura
 
-### Resolva os exercícios 26, 27, 28 
+### Resolva os exercícios 26, 27, 28
+
 ### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
 
-
-
-### [Voltar](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/README.md)
+### [Voltar](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/README.md)

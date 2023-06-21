@@ -137,7 +137,8 @@ programa
 _Obs.: Note que usamos o comando \n ele é utilizado para pular de linha ou quebra de linhas, e o comando \t é usado para tabular a escrita_
 _Obs.: para colocarmos um comentário em nosso código utilizamos o // ou seja //Comentário_
 
-### Faça os Exercícios 1 e 2 
+### Faça os Exercícios 1 e 2
+
 ### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
 
 ## Aula 5
@@ -250,9 +251,9 @@ Note no Exemplo Acima que utilizamos parênteses para ordem de precedência mate
 ### Ordem de precedência
 
 1. ()
-2. +-  unário
+2. +- unário
 3. \*/%
-4. +-  binário
+4. +- binário
 
 ### Exemplo de um cálculo de uma média
 
@@ -311,9 +312,11 @@ Note que quando inclui a biblioteca Matemática eu usei o sinal --> m para apeli
 **Atenção** No Portugol Studio qual uma divisão feita de por um tipo primitivo inteiro, por um tipo primitivo real a operação aritmética poderá não ser exata ou use os dois operadores do tipo real ou utilize a biblioteca Tipos para converter o tipo primitivo da variável
 
 ## Aula 6
+
 Exercícios de Fixação
 
-### Resolver de Exercícios 3, 4, 5, 6, 7, 8, 9, 10 
+### Resolver de Exercícios 3, 4, 5, 6, 7, 8, 9, 10
+
 ### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
 
 ## Aula 8
@@ -371,12 +374,12 @@ programa
 }
 ```
 
-### Resolva os exercícios 11, 12 
+### Resolva os exercícios 11, 12
+
 ### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
 
 ## Aula 10
 
 ### Representação com fluxograma
 
-
-### [Voltar](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/README.md)
+### [Voltar](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/README.md)

@@ -660,3 +660,6 @@ inteiro	chave, ini=0, fim=(	u.numero_elementos(vet)-1), meio=0
 Note que a busca binária vai sempre segmentando o vetor em duas partes ou seja ela divide o meio ao meio e se necessário o meio do meio também é dividido ao meio, isso ocorre porque a divisão por variáveis do tipo inteiro sempre será um resultado do tipo inteiro ou seja se o resultado dá divisão for 4,5 a variável meio irá assumir o valor 4
 
 Obs.: O processo de busca binária é muito mais rápido que a busca sequencial principalmente se a chave se encontra no final do vetor porem sua desvantagem é que se o vetor não estiver ordenado ela não irá funcionar
+
+
+### [Voltar](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/README.md)

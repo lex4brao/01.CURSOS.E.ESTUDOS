@@ -1,4 +1,4 @@
-# 01 - Curso de Programação Básica com Portugol
+# Curso de Programação Básica com Portugol
 
 ### Prof: Gustavo Guanabara
 

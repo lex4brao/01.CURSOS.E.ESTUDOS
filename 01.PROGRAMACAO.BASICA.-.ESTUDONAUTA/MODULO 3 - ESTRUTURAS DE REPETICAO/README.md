@@ -38,7 +38,7 @@ Note que utilizamos uma variável para o contador e utilizamos o operador de atr
 
 ### Resolva os exercícios 29, 30, 31
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 3
 
@@ -139,7 +139,7 @@ programa
 
 ### Resolva os exercícios 32 e 33
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 5
 
@@ -188,7 +188,7 @@ programa
 
 ### Resolva os exercícios 34, 35, 36
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 7
 
@@ -238,7 +238,7 @@ Note que quando o contador se iniciou valendo 1, tanto o maior quando o menor va
 
 ### Resolva os exercícios 37 e 38
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 8
 
@@ -276,7 +276,7 @@ Porem esse tipo de flag ainda não é uma forma muito correta de ser feita pois 
 
 ### Resolva os exercícios 39 e 40
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 9
 
@@ -316,7 +316,7 @@ Note que esse caso podemos ter um controle de parar a repetição do laço a par
 
 ### Resolva os exercícios 41 e 42
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 10
 
@@ -356,7 +356,7 @@ Resolver exercícios utilizando a estrutura faça enquanto
 
 ### Resolva os exercícios 43, 44 e 45
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 12
 
@@ -441,7 +441,7 @@ Resolver exercícios utilizando a estrutura PARA
 
 ### Resolva os exercícios 46, 47, 48 e 49
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 14
 
@@ -495,7 +495,7 @@ Note q no final de cada laço de repetição de y foi coloca uma linha para espa
 
 ### Resolva os exercícios 50, 51, e 52
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 15
 
@@ -587,6 +587,6 @@ Note que enquanto o usuário não digitar a idade corretamente o programa irá f
 
 ### Resolva os exercícios 53 e 54
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ### [Voltar](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/README.md)

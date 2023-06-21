@@ -162,7 +162,7 @@ Resolver os exercícios
 
 ### Resolva os exercícios 55, 56, 57 e 58
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 5
 
@@ -374,7 +374,7 @@ Bateria de exercícios utilizando vetores
 
 ### Resolva os exercícios 59, 60, 61, 62 e 63
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 10
 
@@ -573,7 +573,7 @@ Bateria de exercícios utilizando matrizes
 
 ### Resolva os exercícios 64, 65, 66, 67 e 68
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 15
 

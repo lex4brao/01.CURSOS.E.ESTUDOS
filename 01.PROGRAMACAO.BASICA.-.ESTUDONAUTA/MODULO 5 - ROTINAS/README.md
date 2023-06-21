@@ -314,7 +314,7 @@ Bateria de exercícios utilizando com rotinas
 
 ### Resolva os exercícios 69, 70, 71, 72, 73, 74 e 75
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 6
 
@@ -551,6 +551,6 @@ Bateria de exercícios utilizando com rotinas
 
 ### Resolva os exercícios 76, 77, 78, 79, 80 e 81
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ### [Voltar](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/README.md)

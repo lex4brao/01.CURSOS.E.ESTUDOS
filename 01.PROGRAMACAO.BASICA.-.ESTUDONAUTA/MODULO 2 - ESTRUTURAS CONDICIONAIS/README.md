@@ -208,7 +208,7 @@ Note e a condição do SE foram usadas operações relacionais como >= e <= e op
 
 ### Faça os exercícios 13, 14, 15
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 4
 
@@ -248,7 +248,7 @@ programa
 
 ### Resolva os exercícios 16, 17, 18, 19, 20
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 5
 
@@ -290,7 +290,7 @@ programa
 
 ### Resolva os exercícios 21, 22, 23, 24 e 25
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ## Aula 6
 
@@ -323,6 +323,6 @@ Outro aspecto muito importante para é o comando pare se ele não for colocado a
 
 ### Resolva os exercícios 26, 27, 28
 
-### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01-CURSO-DE-PROGRAMACAO-BASICA/tree/main/RESOLUCAO%20DOS%20EXERCICIOS)
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/RESOLUCAO%20DOS%20EXERCICIOS/README.md)
 
 ### [Voltar](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/01.PROGRAMACAO.BASICA.-.ESTUDONAUTA/README.md)

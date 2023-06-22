@@ -281,5 +281,6 @@ Você que não estudou sobre os operadores lógicos e suas tabelas verdade leia 
 
 ### Resolva os exercicios da Aula 13
 
-### [Veja a Lista de Exercícios Aqui]()
+### [Veja a Lista de Exercícios Aqui](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/02.CURSOS.JAVA.-.LOIANE.GRONER/01.JAVA.BASICO.-.LOIANE.GRONER/Lista.de.Exercicios/README.md)
 
+### [Voltar](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/02.CURSOS.JAVA.-.LOIANE.GRONER/01.JAVA.BASICO.-.LOIANE.GRONER/README.md)

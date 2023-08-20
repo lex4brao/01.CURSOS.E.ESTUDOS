@@ -2,6 +2,8 @@
 
 ### Prof Loiane Groner
 
+## [Exercicios Resolvidos](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/03.JAVA%2CBASICO.-.LOIANE%2CGRONER/00.RESOLUCAO.DE.EXERCICIOS)
+
 ## Aula 19 - Vetores e Arrays
 
 Vetor é uma lista ordenada de dados
@@ -97,3 +99,5 @@ public class Teste {
 ```
 
 Esse é apenas um exemplo básico. Você pode usar o loop "for-each" em muitos outros cenários, desde percorrer listas até trabalhar com conjuntos ou outras coleções. Lembre-se de que o loop "for-each" é mais adequado quando você não precisa modificar os elementos da coleção durante a iteração. Ou seja, com o "for-each" nós só conseguimos "vizualizar" e percorrer os elementos de um vetor, matriz, listas, etc..., não podemos fazer alteração em qualquer valor de qualquer elemento para fazer alguma modificação é utilizado o for convencional
+
+## [VOLTAR](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/README.md)

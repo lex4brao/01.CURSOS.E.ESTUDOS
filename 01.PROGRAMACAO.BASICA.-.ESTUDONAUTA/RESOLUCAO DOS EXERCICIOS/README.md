@@ -150,7 +150,7 @@ se o usuário acertar, apareça a mensagem de Parabéns se ele não acetar apare
 
 67. Faça um programa onde ele gere uma matriz 5x5, depois mostra a média dos valores gerados, mostre os valores que estão acima da média na segunda linha, e mostre quantos valores estão abaixo da médica na terceira coluna
 
-68. **[DESAFIO]** Desenvolva um jogo de campo minado, onde o jogador tem 5 tentativas e cada tentativa acertada ele ganhe 2 pontos, caso o jogador acerte uma bomba o jogo termina 
+68. **[DESAFIO]** Desenvolva um jogo de campo minado, onde o jogador tem 5 tentativas e cada tentativa acertada ele ganhe 20 pontos, caso o jogador acerte uma bomba o jogo termina 
 
 ## MÓDULO 5 - ROTINAS
 

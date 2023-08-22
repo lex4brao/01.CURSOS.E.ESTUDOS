@@ -428,6 +428,18 @@ Referência: [https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.
 - protected: o membro só pode ser acessado no mesmo pacote, bem como em subclasses de pacotes diferentes
 - public: o membro é acessado por todas classes (ao menos que ele resida em um módulo diferente que não exporte o pacote onde ele está)
 
+## Seção 10: Comportamento de memória, arrays, listas
+
+### Aula 86. Tipos referência vs. tipos valor
+
+### Aula 87. Desalocação de memória - garbage collector e escopo local
+
+É um processo que automatiza o gerenciamento de memória de umprograma em execução
+O garbage collector monitora os objetos alocados dinamicamente pelo programa (no heap), desalocando aqueles que não estão mais sendo utilizados
+
+- Objetos alocados dinamicamente, quando não possuem mais referência para eles, serão desalocados pelo garbage collector
+- Variáveis locais são desalocadas imediatamente assim que seu escopo local sai de execução
+
 ### Aula 
 
 ## [VOLTAR](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/README.md)

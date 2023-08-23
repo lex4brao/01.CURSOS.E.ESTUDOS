@@ -1,0 +1,24 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  color: red;
+}
+a {
+  color: darkgreen;
+}
+
+p {
+  font-size: 18px;
+}
+
+.topo {
+  color: darkmagenta;
+  font-size: 16px;
+}
+.hj{
+  color: darkred;
+}
+.amanha {
+  color: darkblue;
+}

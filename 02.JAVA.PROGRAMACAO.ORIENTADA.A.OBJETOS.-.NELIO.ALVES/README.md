@@ -478,6 +478,16 @@ public class Teste {
 
 [Diretório da Aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula89)
 
+### Aula 90. Exercícios de fixação sobre vetores
+
+### Aula 91. Correção do exercício negativos
+
+### Aula 92. Correção do exercício alturas
+
+### Aula 93. Desafio sobre vetores (pensionato)
+
+### Aula 94. Correção do desafio sobre vetores (pensionato)
+
 ### Aula 
 
 ## [VOLTAR](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/README.md)

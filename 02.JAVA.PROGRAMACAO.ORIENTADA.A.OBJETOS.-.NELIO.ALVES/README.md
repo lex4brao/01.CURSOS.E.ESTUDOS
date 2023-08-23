@@ -440,6 +440,36 @@ O garbage collector monitora os objetos alocados dinamicamente pelo programa (no
 - Objetos alocados dinamicamente, quando não possuem mais referência para eles, serão desalocados pelo garbage collector
 - Variáveis locais são desalocadas imediatamente assim que seu escopo local sai de execução
 
+### Aula 88. Vetores - Parte 1
+
+```java
+import java.util.Scanner;
+
+public class Teste {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int n=0;
+        double soma=0, media;
+
+        System.out.print("Quantas pessoas deseja cadastrar: ");
+        n = sc.nextInt();
+
+        double[] vet = new double[n];
+
+        for (int i=0; i<vet.length; i++){
+            System.out.print("["+(i+1)+"]: ");
+            vet[i] = sc.nextDouble();
+            soma += vet[i];
+        }
+        media = soma/vet.length;
+        System.out.println("A média das idades é "+ media);
+    }
+}
+
+```
+
+### Aula 89. Vetores - Parte 2
+
 ### Aula 
 
 ## [VOLTAR](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/README.md)

@@ -303,11 +303,15 @@ toString() é um método que pertence à classe Object, a classe base de todas a
 
 ### Aula 68. Finalizando o programa
 
+[Diretório da Aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula68)
+
 ### Aula 70. Membros estáticos - Parte 1
 
 ### Aula 71. Membros estáticos - Parte 2
 
 A O método main por padrão sempre será statico, uma metodo estático e mebros estáticos não tem a necessidade de instanciar a classe no Método "MAIN", Já os métodos e membros não estáticos tem a necessidade de se instanciar a classe
+
+[Diretório da Aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula71)
 
 ## Seção 9: Construtores, palavra this, sobrecarga, encapsulamento
 
@@ -419,6 +423,8 @@ Benefícios do Encapsulamento:
 3. Ocultação de Detalhes: Encapsular os detalhes internos de uma classe ajuda a ocultar sua complexidade e proporciona uma interface mais simples para os usuários da classe.
 4. Flexibilidade: Com o encapsulamento, você pode modificar a implementação interna de uma classe sem afetar o código que a utiliza, desde que a interface pública permaneça a mesma.
 
+[Diretório da Aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula78)
+
 ### Aula 79. Gerando automaticamente construtores, getters e setters com Eclipse
 
 Referência: [https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
@@ -469,6 +475,8 @@ public class Teste {
 ```
 
 ### Aula 89. Vetores - Parte 2
+
+[Diretório da Aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula89)
 
 ### Aula 
 

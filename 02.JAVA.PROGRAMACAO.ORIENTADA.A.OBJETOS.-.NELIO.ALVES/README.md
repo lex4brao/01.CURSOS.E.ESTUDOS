@@ -488,6 +488,154 @@ public class Teste {
 
 ### Aula 94. Correção do desafio sobre vetores (pensionato)
 
-### Aula 
+### Aula 95. Boxing, unboxing e wrapper classes
+
+Veja o a wrapper class "Integer" que através do método "parseInt" ele converte os dados coletados pelo teclado em um valor inteiro 
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Digite um número inteiro: ");
+        
+        int numero = Integer.parseInt(sc.nextLine());
+        System.out.println("Você digitou: " + numero);
+
+        sc.close();
+    }
+}
+
+```
+
+### Aula 96. Laço for each
+
+### Aula 96. Laço for each
+
+### Aula 97. Listas - Parte 1
+
+Referência: https://docs.oracle.com/javase/10/docs/api/java/util/List.html
+
+- Lista é uma estrutura de dados:
+  - Homogênea (dados do mesmo tipo)
+  - Ordenada (elementos acessados por meio de posições)
+  - Inicia vazia, e seus elementos são alocados sob demanda
+  - Cada elemento ocupa um "nó" (ou nodo) da lista
+- Tipo (interface): List
+  - Classes que implementam: ArrayList, LinkedList, etc.
+- Vantagens: 
+  - Tamanho variável
+  - Facilidade para se realizar inserções e deleções
+- Desvantagens:
+  - Acesso sequencial aos elementos 
+
+Em Java, uma lista é uma estrutura de dados que permite armazenar e manipular um conjunto ordenado de elementos. A interface java.util.List é uma das principais implementações dessa estrutura de dados, e ela oferece várias funcionalidades para adicionar, remover, acessar e modificar elementos na lista. As classes mais comuns que implementam a interface List são ArrayList, LinkedList e Vector.
+
+Aqui está como instanciar e usar listas em Java:
+
+Importar a classe List e a classe de implementação desejada:
+
+```java
+import java.util.List;
+import java.util.ArrayList;
+Instanciar a lista:
+```
+
+Você pode escolher a classe de implementação que deseja usar (por exemplo, ArrayList), criar um objeto dessa classe e atribuí-lo a uma referência da interface List.
+
+```java
+List<Integer> listaNumeros = new ArrayList<>();
+```
+
+Adicionar elementos à lista:
+Você pode usar o método add para adicionar elementos à lista.
+
+```java
+listaNumeros.add(10);
+listaNumeros.add(20);
+listaNumeros.add(30);
+```
+
+Acessar elementos da lista:
+Você pode usar o método get para acessar elementos da lista pelo índice.
+
+```java
+int primeiroElemento = listaNumeros.get(0); // Retorna 10
+```
+
+Modificar elementos da lista:
+Você pode usar o método set para substituir um elemento existente por um novo elemento.
+
+```java
+listaNumeros.set(1, 25); // Substitui o elemento no índice 1 por 25
+```
+
+Remover elementos da lista:
+Você pode usar o método remove para remover um elemento pelo valor ou pelo índice.
+
+```java
+listaNumeros.remove(0); // Remove o primeiro elemento (índice 0)
+```
+
+Verificar o tamanho da lista:
+O método size retorna o número de elementos na lista.
+
+```java
+int tamanhoDaLista = listaNumeros.size(); // Retorna o tamanho da lista
+```
+
+Iterar sobre os elementos da lista:
+Você pode usar loops, como o for ou o foreach, para percorrer todos os elementos da lista.
+
+```java
+for (int numero : listaNumeros) {
+    System.out.println(numero);
+}
+```
+
+Verificar se a lista está vazia:
+O método isEmpty retorna true se a lista estiver vazia.
+
+```java
+boolean estaVazia = listaNumeros.isEmpty(); // Retorna true se a lista estiver vazia
+```
+
+Limpar a lista:
+O método clear remove todos os elementos da lista.
+
+```java
+listaNumeros.clear(); // Remove todos os elementos da lista
+```
+
+Exemplo completo:
+
+```java
+import java.util.List;
+import java.util.ArrayList;
+
+public class ExemploLista {
+    public static void main(String[] args) {
+        List<Integer> listaNumeros = new ArrayList<>();
+        
+        listaNumeros.add(10);
+        listaNumeros.add(20);
+        listaNumeros.add(30);
+        
+        for (int numero : listaNumeros) {
+            System.out.println(numero);
+        }
+        
+        listaNumeros.remove(0);
+        
+        System.out.println("Tamanho da lista: " + listaNumeros.size());
+        System.out.println("Está vazia? " + listaNumeros.isEmpty());
+    }
+}
+```
+
+Este exemplo cria uma lista de números inteiros, adiciona elementos a ela, itera sobre os elementos, remove um elemento, e depois exibe informações sobre a lista. Note que você pode substituir ArrayList por outras classes que implementam a interface List, como LinkedList ou Vector, conforme sua necessidade.
+
+### Aula 98. Listas - Parte 2
 
 ## [VOLTAR](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/README.md)

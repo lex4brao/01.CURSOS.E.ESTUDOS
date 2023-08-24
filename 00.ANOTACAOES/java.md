@@ -13,6 +13,7 @@ public class Teste {
     }
 }
 ```
+
   - (x%2==0) : Condição
   - "par" : se (if)
   - "impar": senão (else)
@@ -33,6 +34,7 @@ Esta formatação funciona somente no comando "printf", onde .2 é o numero de c
   - %n = quebra de linha
 
 ### Formatação pela classa DecimalFormat
+
 ```java
 import java.text.DecimalFormat;
 public class Ex04 {
@@ -151,3 +153,62 @@ int intValue = (int) doubleValue; // Conversão explícita de double para int
 ```
 
 Lembre-se de que, ao fazer casting explícito, você deve estar ciente de possíveis perdas de dados ou comportamentos inesperados. Certifique-se de entender bem os tipos de dados envolvidos e os possíveis impactos antes de realizar um casting explícito.
+
+## Resolvendo o problema da quebra de linha que fica no buffer do teclado
+Normalmente aprendemos utilizar o seguinte forma: 
+
+```java
+import java.util.Scanner;
+
+public class ExemploLeituraInt {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Digite um número inteiro: ");
+        int n = sc.nextInt;
+        sc.nextLine;
+
+        System.out.println("Número inteiro digitado: " + n);
+
+        scanner.close();
+    }
+}
+
+```
+
+Porem com a wrapper class é possivel da seguinte forma: 
+
+```java
+import java.util.Scanner;
+
+public class ExemploLeituraInt {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Digite um número inteiro: ");
+        int n = Integer.parseInt(sc.nextLine);
+        sc.nextLine;
+
+        System.out.println("Número inteiro digitado: " + n);
+
+        scanner.close();
+    }
+}
+
+```
+O método da classe Integer converte a "String" digitada em um valor do tipo primitivo inteiro
+
+### Atribuindo valor a uma variável utilizando com o switch
+
+```java
+int result = switch (operator) {
+    case "+" -> a + b;
+    case "-" -> a - b;
+    default -> {
+        // Caso nenhum dos operadores seja correspondente, retorne um valor padrão
+        System.out.println("Operador não reconhecido: " + operator);
+        return 0; // Valor padrão
+    }
+};
+
+```

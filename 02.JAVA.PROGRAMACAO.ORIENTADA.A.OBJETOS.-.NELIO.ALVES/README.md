@@ -648,4 +648,9 @@ Este exemplo cria uma lista de números inteiros, adiciona elementos a ela, iter
 
 ### Aula 103. Exercício proposto
 
+## Seção 11: Tópicos especiais em Java: data-hora
+
+### Aula 106. Introdução a data-hora e duração
+
+### Aula
 ## [VOLTAR](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/blob/main/README.md)

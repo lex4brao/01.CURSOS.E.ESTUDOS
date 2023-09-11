@@ -1,18 +1,18 @@
-package secao4;
+package secao04;
 
-import java.util.Scanner;
 import java.text.DecimalFormat;
+import java.util.Scanner;
+
 public class Ex02 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         DecimalFormat df = new DecimalFormat("#.####");
         double raio, area;
-        System.out.println("Calculo da área de um circulo");
-        System.out.printf("Digite o raio do circulo  ");
+
+        System.out.println("Calculando a area do circulo");
+        System.out.print("Digite o valor do raio: ");
         raio = sc.nextDouble();
         area = Math.PI*Math.pow(raio,2);
-        System.out.println("A área do circulo é "+df.format(area));
-        System.out.printf("%.2f",area);
-
+        System.out.println("Area do circulo é "+df.format(area));
     }
 }

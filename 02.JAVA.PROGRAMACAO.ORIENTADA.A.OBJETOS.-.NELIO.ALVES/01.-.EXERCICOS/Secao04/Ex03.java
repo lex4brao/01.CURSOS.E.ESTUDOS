@@ -1,21 +1,21 @@
-package secao4;
+package secao04;
 
 import java.util.Scanner;
+
 public class Ex03 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        int na, nb, nc, nd, dif;
-        System.out.println("Diferenca dos produtos");
-        System.out.printf("Digite o 1º numero: ");
-        na = sc.nextInt();
-        System.out.printf("Digite o 2º numero: ");
-        nb = sc.nextInt();
-        System.out.printf("Digite o 3º numero: ");
-        nc = sc.nextInt();
-        System.out.printf("Digite o 4º numero: ");
-        nd = sc.nextInt();
-        dif = (na*nb)-(nc*nd);
-        System.out.println("A diferença é "+dif);
+        Scanner sc = new Scanner(System.in);
+        double nA, nB, nC, nD;
+        System.out.println("Calculo de A*B-C*D");
+        System.out.print("Digite o valor de A: ");
+        nA = sc.nextDouble();
+        System.out.print("Digite o valor de B: ");
+        nB = sc.nextDouble();
+        System.out.print("Digite o valor de C: ");
+        nC = sc.nextDouble();
+        System.out.print("Digite o valor de D: ");
+        nD = sc.nextDouble();
+        System.out.println(nA+"*"+nB+" - "+nC+"*"+nD+" = "+((nA*nB)-(nC*nD)));
 
     }
 }

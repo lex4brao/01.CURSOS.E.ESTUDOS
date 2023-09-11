@@ -1,6 +1,7 @@
-package secao4;
+package secao04;
 
 import java.util.Scanner;
+
 public class Ex06 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
@@ -23,6 +24,5 @@ public class Ex06 {
         System.out.printf("Quadrado: %.2f\n", quad);
         ret = a*b;
         System.out.printf("Retangulo: %.2f\n", ret);
-
     }
 }

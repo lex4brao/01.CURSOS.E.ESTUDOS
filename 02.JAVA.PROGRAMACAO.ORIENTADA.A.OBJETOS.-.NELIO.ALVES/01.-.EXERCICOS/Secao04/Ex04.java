@@ -1,23 +1,25 @@
-package secao4;
+package secao04;
 
+import java.text.DecimalFormat;
 import java.util.Scanner;
+
 public class Ex04 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        int func, hora;
-        double valor, salario;
-        System.out.println("Calculo de Salario");
-        System.out.printf("Digite o numero do funcionário: ");
-        func = sc.nextInt();
-        System.out.printf("Digite o numero de horas trabalhadas: ");
-        hora = sc.nextInt();
-        System.out.printf("Digite o valor da hora trabalhada R$:");
-        valor = sc.nextDouble();
-        salario = hora*valor;
-        System.out.println("-----------------");
-        System.out.println("Funciário: "+func);
-        System.out.printf("Salario: R$:%.2f\n",salario);
-        System.out.println("-----------------");
+        Scanner sc = new Scanner(System.in);
+        DecimalFormat df = new DecimalFormat("#.##");
+
+        int horasTrabalhadas, nunFucionario;
+        double valorHora;
+
+        System.out.print("Digite o numero do funcionario: ");
+        nunFucionario = sc.nextInt();
+        System.out.print("Digite quantas horas foram trabalhadas: ");
+        horasTrabalhadas = sc.nextInt();
+        System.out.print("Qual o valor da hora trabalhada R$: ");
+        valorHora = sc.nextDouble();
+        System.out.println();
+        System.out.println("Funcionario Numero: "+nunFucionario);
+        System.out.println("O Salario do funcionario será R$:"+df.format(horasTrabalhadas*valorHora));
 
     }
 }

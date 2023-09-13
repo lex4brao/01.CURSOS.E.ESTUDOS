@@ -6,6 +6,8 @@
 
 ## Aula 02 - Grid Columns 1 - HTML e CSS para Iniciantes
 
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula63)
+
 ## Aula 03 - Align e Justify Content - HTML e CSS para Iniciantes
 
 ## Aula 04 - Grid Column 1 - HTML e CSS para Iniciantes

@@ -256,9 +256,17 @@ public class Teste {
 
 ### Aula 63. Resolvendo um problema sem orientação a objetos
 
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula63)
+
 ### Aula 64. Criando uma classe com três atributos para representar melhor o triângulo
 
+
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula64)
+
 ### Aula 65. Criando um método para obtermos os benefícios de reaproveitamento e delegação
+
+
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula65)
 
 ### Aula 66. Começando a resolver um segundo problema exemplo
 

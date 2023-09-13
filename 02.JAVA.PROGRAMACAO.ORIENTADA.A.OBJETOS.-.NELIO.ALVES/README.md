@@ -254,46 +254,11 @@ public class Teste {
 
 ## Seção 8: Introdução à Programação Orientada a Objetos
 
+### Aula 63. Resolvendo um problema sem orientação a objetos
+
 ### Aula 64. Criando uma classe com três atributos para representar melhor o triângulo
 
 ### Aula 65. Criando um método para obtermos os benefícios de reaproveitamento e delegação
-
-Classe Principal Main
-
-```java
-public class Teste {
-    public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-
-        Triangulo x,y;
-        x= new Triangulo();
-
-        System.out.println("Entre com as medidas do triangulo: ");
-        System.out.printf("Lado A: ");
-        x.a= sc.nextInt();
-        System.out.printf("Lado B: ");
-        x.b= sc.nextInt();
-        System.out.printf("Lado C: ");
-        x.c= sc.nextInt();
-        System.out.println("A area do triangulo é "+x.area());
-
-    }
-}
-```
-
-Classe Triangulo
-
-```java
-public class Triangulo {
-    public double a;
-    public double b;
-    public double c;
-    public double area(){
-        double p=((a+b+c)/2);
-        return Math.sqrt(p*((p-a)*(p-b)*(p-c)));
-    }
-}
-```
 
 ### Aula 66. Começando a resolver um segundo problema exemplo
 
@@ -303,15 +268,11 @@ toString() é um método que pertence à classe Object, a classe base de todas a
 
 ### Aula 68. Finalizando o programa
 
-[Diretório da Aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula68)
-
 ### Aula 70. Membros estáticos - Parte 1
 
 ### Aula 71. Membros estáticos - Parte 2
 
 A O método main por padrão sempre será statico, uma metodo estático e mebros estáticos não tem a necessidade de instanciar a classe no Método "MAIN", Já os métodos e membros não estáticos tem a necessidade de se instanciar a classe
-
-[Diretório da Aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula71)
 
 ## Seção 9: Construtores, palavra this, sobrecarga, encapsulamento
 

@@ -270,12 +270,20 @@ public class Teste {
 
 ### Aula 66. Começando a resolver um segundo problema exemplo
 
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula66a68)
+
 ### Aula 67. Object e toString
 
 toString() é um método que pertence à classe Object, a classe base de todas as outras classes em Java. Ele é usado para retornar uma representação em forma de string do objeto. Por padrão, todas as classes em Java herdam esse método da classe Object, mas muitas classes personalizam a implementação do método toString() para fornecer informações úteis sobre o objeto quando convertido em uma string.
 
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula66a68)
+
 ### Aula 68. Finalizando o programa
 
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula66a68)
+
+### Aula 69. Exercícios de fixação
+ 
 ### Aula 70. Membros estáticos - Parte 1
 
 ### Aula 71. Membros estáticos - Parte 2

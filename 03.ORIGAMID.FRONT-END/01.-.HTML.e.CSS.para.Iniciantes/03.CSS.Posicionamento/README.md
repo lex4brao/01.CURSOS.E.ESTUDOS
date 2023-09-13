@@ -6,13 +6,18 @@
 
 ## Aula 02 - Grid Columns 1 - HTML e CSS para Iniciantes
 
-[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula63)
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/03.ORIGAMID.FRONT-END/01.-.HTML.e.CSS.para.Iniciantes/03.CSS.Posicionamento/aula02.e.03)
 
 ## Aula 03 - Align e Justify Content - HTML e CSS para Iniciantes
 
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/03.ORIGAMID.FRONT-END/01.-.HTML.e.CSS.para.Iniciantes/03.CSS.Posicionamento/aula02.e.03)
 ## Aula 04 - Grid Column 1 - HTML e CSS para Iniciantes
 
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/03.ORIGAMID.FRONT-END/01.-.HTML.e.CSS.para.Iniciantes/03.CSS.Posicionamento/aula04.e.05)
+
 ## Aula 05 - Align e Justify Items - HTML e CSS para Iniciantes
+
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/03.ORIGAMID.FRONT-END/01.-.HTML.e.CSS.para.Iniciantes/03.CSS.Posicionamento/aula04.e.05)
 
 ## Aula 06 - Grid Template Rows - HTML e CSS para Iniciantes
 

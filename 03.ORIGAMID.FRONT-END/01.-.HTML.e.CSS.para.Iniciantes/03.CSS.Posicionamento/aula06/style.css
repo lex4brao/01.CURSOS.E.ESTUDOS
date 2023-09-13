@@ -1,0 +1,34 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  margin: 40px;
+}
+
+h1, p {
+  margin: 0px;
+}
+
+h1{
+  font-size: 48px;
+  line-height: 1;
+}
+p, span {
+  font-size: 20px;
+}
+img{
+  max-width: 100%;
+  border-radius: 10px;
+}
+.grid{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+
+}
+.info{
+  display: grid;
+  place-self: start;
+  place-items: start;
+  gap: 20px;
+}
+.titulo{
+  grid-column: 1/-1;
+}

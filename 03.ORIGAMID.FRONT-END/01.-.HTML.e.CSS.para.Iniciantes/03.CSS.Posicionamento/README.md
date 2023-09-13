@@ -21,7 +21,11 @@
 
 ## Aula 06 - Grid Template Rows - HTML e CSS para Iniciantes
 
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/03.ORIGAMID.FRONT-END/01.-.HTML.e.CSS.para.Iniciantes/03.CSS.Posicionamento/aula06)
+
 ## Aula 07 - Flexbox 1 - HTML e CSS para Iniciantes
+
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/03.ORIGAMID.FRONT-END/01.-.HTML.e.CSS.para.Iniciantes/03.CSS.Posicionamento/aula07)
 
 ## Aula 08 - Position 1 - HTML e CSS para Iniciantes
 

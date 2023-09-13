@@ -1,4 +1,4 @@
-# Captulo 03 CSS Posicionamento
+# Capitulo 03 CSS Posicionamento
 
 ### Prof: André Rafael
 

@@ -1,4 +1,4 @@
-# Captulo 02 HTML e CSS Básico
+# Capitulo 02 HTML e CSS Básico
 
 ### Prof: André Rafael
 

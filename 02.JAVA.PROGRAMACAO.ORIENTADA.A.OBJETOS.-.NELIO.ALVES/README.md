@@ -260,11 +260,9 @@ public class Teste {
 
 ### Aula 64. Criando uma classe com três atributos para representar melhor o triângulo
 
-
 [Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula64)
 
 ### Aula 65. Criando um método para obtermos os benefícios de reaproveitamento e delegação
-
 
 [Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula65)
 
@@ -284,17 +282,17 @@ toString() é um método que pertence à classe Object, a classe base de todas a
 
 ### Aula 69. Exercícios de fixação
 
-[Diretório dos Exercicios]()
+[Diretório dos Exercicios](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/01.-.EXERCICOS)
 
 ### Aula 70. Membros estáticos - Parte 1
 
-[Diretório da aula]()
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula70e71)
 
 ### Aula 71. Membros estáticos - Parte 2
 
 A O método main por padrão sempre será statico, uma metodo estático e mebros estáticos não tem a necessidade de instanciar a classe no Método "MAIN", Já os métodos e membros não estáticos tem a necessidade de se instanciar a classe
 
-[Diretório da aula]()
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula70e71)
 
 ## Seção 9: Construtores, palavra this, sobrecarga, encapsulamento
 
@@ -310,7 +308,7 @@ Product p = new Product();
 Sintaxe de um Construtor:
 Um construtor tem o mesmo nome da classe e não possui tipo de retorno, nem mesmo void. Ele pode aceitar argumentos, que são usados para inicializar os atributos da classe. Aqui está a sintaxe básica:
 
-[Diretório da aula]()
+[Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula75)
 
 ```java
 public class Produtos {
@@ -410,9 +408,9 @@ Benefícios do Encapsulamento:
 3. Ocultação de Detalhes: Encapsular os detalhes internos de uma classe ajuda a ocultar sua complexidade e proporciona uma interface mais simples para os usuários da classe.
 4. Flexibilidade: Com o encapsulamento, você pode modificar a implementação interna de uma classe sem afetar o código que a utiliza, desde que a interface pública permaneça a mesma.
 
-[Diretório da Aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula78)
-
 ### Aula 79. Gerando automaticamente construtores, getters e setters com Eclipse
+
+### Aula 80. Modificadores de acesso
 
 Referência: [https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
 
@@ -420,6 +418,10 @@ Referência: [https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.
 - (nada): o membro só pode ser acessado nas classes do mesmo pacote
 - protected: o membro só pode ser acessado no mesmo pacote, bem como em subclasses de pacotes diferentes
 - public: o membro é acessado por todas classes (ao menos que ele resida em um módulo diferente que não exporte o pacote onde ele está)
+
+### Aula 81. Exercício de fixação
+
+[Diretório dos Exercicios](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/01.-.EXERCICOS)
 
 ## Seção 10: Comportamento de memória, arrays, listas
 
@@ -498,11 +500,9 @@ public class Main {
 
 ### Aula 96. Laço for each
 
-### Aula 96. Laço for each
-
 ### Aula 97. Listas - Parte 1
 
-Referência: https://docs.oracle.com/javase/10/docs/api/java/util/List.html
+Referência: [https://docs.oracle.com/javase/10/docs/api/java/util/List.html](https://docs.oracle.com/javase/10/docs/api/java/util/List.html)
 
 - Lista é uma estrutura de dados:
   - Homogênea (dados do mesmo tipo)

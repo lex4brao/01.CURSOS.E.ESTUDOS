@@ -283,12 +283,18 @@ toString() é um método que pertence à classe Object, a classe base de todas a
 [Diretório da aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula66a68)
 
 ### Aula 69. Exercícios de fixação
- 
+
+[Diretório dos Exercicios]()
+
 ### Aula 70. Membros estáticos - Parte 1
+
+[Diretório da aula]()
 
 ### Aula 71. Membros estáticos - Parte 2
 
 A O método main por padrão sempre será statico, uma metodo estático e mebros estáticos não tem a necessidade de instanciar a classe no Método "MAIN", Já os métodos e membros não estáticos tem a necessidade de se instanciar a classe
+
+[Diretório da aula]()
 
 ## Seção 9: Construtores, palavra this, sobrecarga, encapsulamento
 
@@ -304,6 +310,8 @@ Product p = new Product();
 Sintaxe de um Construtor:
 Um construtor tem o mesmo nome da classe e não possui tipo de retorno, nem mesmo void. Ele pode aceitar argumentos, que são usados para inicializar os atributos da classe. Aqui está a sintaxe básica:
 
+[Diretório da aula]()
+
 ```java
 public class Produtos {
     // Atributos
@@ -317,7 +325,9 @@ public class Produtos {
 }
 
 ```
+
 Exemplo 2
+
 ```java
 class Carro {
     String marca;

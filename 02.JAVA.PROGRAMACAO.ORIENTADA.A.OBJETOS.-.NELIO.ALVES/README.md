@@ -476,7 +476,7 @@ public class Teste {
 ### Aula 93. Desafio sobre vetores (pensionato)
 
 ### Aula 94. Correção do desafio sobre vetores (pensionato)
-[Diretório da Aula]()
+[Diretório da Aula](https://github.com/lex4brao/01.CURSOS.E.ESTUDOS/tree/main/02.JAVA.PROGRAMACAO.ORIENTADA.A.OBJETOS.-.NELIO.ALVES/aula94)
 
 ### Aula 95. Boxing, unboxing e wrapper classes
 

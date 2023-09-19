@@ -476,6 +476,7 @@ public class Teste {
 ### Aula 93. Desafio sobre vetores (pensionato)
 
 ### Aula 94. Correção do desafio sobre vetores (pensionato)
+[Diretório da Aula]()
 
 ### Aula 95. Boxing, unboxing e wrapper classes
 

@@ -12,6 +12,6 @@ Os arquivos estão separados pra uma pasta para cada capitulo conforme a sequenc
 Para os exercicios com solução em portugues estrutura do livro colocamos na pasta **ex1resolv**
 para os exercicios proposto no livro colocamos na pasta **ex2prop**
 
-## Todos os arquivos em java desta pasta foram de minha autoria, caso encontre um erro ou tenha uma solução diferente para o exercicio abra uma issue neste repositório
+### Todos os arquivos em java desta pasta foram de minha autoria, caso encontre um erro ou tenha uma solução diferente para o exercicio abra uma issue neste repositório
 
 ### [Voltar](../README.md)

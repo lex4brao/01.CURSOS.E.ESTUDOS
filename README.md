@@ -8,4 +8,4 @@
 
 ### [03 - Fundamentos da Programação de Computadores](/03.FUNDAMENTOS.DA.PROGRAMACAO/README.md)
 
-### [05 - Lista de exercicios resolvida em java]()
+### [05 - Lista de exercicios resolvida em java](/05.EXERCICIOS.DE.JAVA/README.md)

@@ -1,4 +1,4 @@
-package CAP05;
+package CAP06;
 
 public class main {
 }

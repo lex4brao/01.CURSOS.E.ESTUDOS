@@ -1,5 +1,19 @@
 # Lista de Exericios - Aula 17
 
+## Veja as correções dos exercicios no youtube
+
+### [Correção Exercicios Aula 17 - parte 1](https://www.youtube.com/watch?v=7ccdc5Vkf7Q&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=23&t=1s&ab_channel=LoianeGroner)
+
+### [Correção Exercicios Aula 17 - parte 2](https://www.youtube.com/watch?v=ATEpiDIqDx4&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=24&ab_channel=LoianeGroner)
+
+### [Correção Exercicios Aula 17 - parte 3](https://www.youtube.com/watch?v=ltG7MEnTx8M&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=25&ab_channel=LoianeGroner)
+
+### [Correção Exercicios Aula 17 - parte 4](https://www.youtube.com/watch?v=bfkocfgM7_U&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=26&ab_channel=LoianeGroner)
+
+### [Correção Exercicios Aula 17 - parte 5](https://www.youtube.com/watch?v=coiYSnquB7g&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=27&ab_channel=LoianeGroner)
+
+## Exercicios
+
 1. Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 
 2. Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.

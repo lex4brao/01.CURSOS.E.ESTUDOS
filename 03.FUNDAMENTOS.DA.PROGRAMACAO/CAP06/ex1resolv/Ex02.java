@@ -22,6 +22,7 @@ public class Ex02 {
       valorVenda[i] = produtos[i]*vendas[i];
       maior = Math.max(valorVenda[i], maior);
     }
+
     double totVendas = 0;
     double totComissão = 0;
     for (int i = 0; i < produtos.length; i++) {
@@ -34,6 +35,7 @@ public class Ex02 {
     totVendas += (produtos[i]*vendas[i]);
     totComissão+= ((produtos[i]*vendas[i])*0.05);
     }
+
     System.out.println();
     System.out.println();
     System.out.println();
@@ -43,6 +45,7 @@ public class Ex02 {
     System.out.println();
     System.out.println();
     System.out.println("A maior venda foi: ");
+
     for (int i = 0; i <produtos.length ; i++) {
       if (maior==valorVenda[i]){
 

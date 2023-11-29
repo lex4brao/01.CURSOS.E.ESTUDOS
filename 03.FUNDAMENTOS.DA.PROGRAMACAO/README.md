@@ -2,7 +2,7 @@
 
 ### Autora Ana Fernanda Gomes Ascencio
 
-### Autira Edilene Aparecida Veneruchi de Campos
+### Autora Edilene Aparecida Veneruchi de Campos
 
 Esta pasta é destinada a resolução dos exercicios propóstos e resolvidos do livro
 

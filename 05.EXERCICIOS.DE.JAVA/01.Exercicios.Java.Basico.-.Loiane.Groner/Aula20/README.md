@@ -1,4 +1,4 @@
-# Lista de Exericios - Aula 19
+# Lista de Exericios - Aula 20
 
 ## Veja as correções dos exercicios no youtube
 

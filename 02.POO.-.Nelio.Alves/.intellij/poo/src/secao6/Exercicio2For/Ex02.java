@@ -1,4 +1,4 @@
-package secao6.Exercicio2For;
+package Secao6.Exercicio2For;
 
 import java.util.Scanner;
 

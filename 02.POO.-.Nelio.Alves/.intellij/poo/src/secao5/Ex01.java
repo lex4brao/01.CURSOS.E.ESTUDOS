@@ -1,4 +1,4 @@
-package secao5;
+package Secao5;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

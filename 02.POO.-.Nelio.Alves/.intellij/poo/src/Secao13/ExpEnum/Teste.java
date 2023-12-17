@@ -1,4 +1,4 @@
-package secao13.exemploEnum;
+package Secao13.ExpEnum;
 
 public class Teste {
     public static void main(String[] args) {
